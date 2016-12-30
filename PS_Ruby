@@ -1,0 +1,38 @@
+Blocos
+	nome_met(&bloco)
+	block.call(paramUtilizadoPeloBloco)
+	block_given?-> Diz se foi passado algum bloco pro método
+		def met(&bloco)
+			if block_given?
+				bloco.call(alguem)
+			end
+		end
+		### Chamada
+		x.met do |var|
+			#faz algo
+		end
+		##Ou
+		x.met {|var| #faz algo}
+	pode-se fazer da mesma forma sem usar o parm &bloco e trocando a chamada call por yield
+
+
+exit-> encerra a aplicação
+
+Exceções
+	Raising = Lançamento de Exceções
+	begin - rescue - end = try - except
+	raise (exceção, texto) -> lançar exceção
+
+	begin 
+	rescue NomeDaExceção=> e
+		#e eh a string de erro?
+	end
+
+	throw symbol,string ->symbol serve como identificador de tipo de exceção
+	catch symbol do - end -> esse bloco captura todas as exceções do tipo symbol e encerra a execução do bloco na linha que ocorreu a exceção
+
+Herança
+	class a <b -> a herda de b/
+
+Classes
+	Nomes de classes tem que ter o primeito caractere maiúsculo, pois nomes desse tipo são considerados constantes
