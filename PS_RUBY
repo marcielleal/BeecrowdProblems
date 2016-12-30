@@ -1,0 +1,220 @@
+IRB -> interpretador
+#encoding: utf-8	->codificação, precisa?
+require -> seria isso um include, jovi?
+# puts -> print de python?
+# Sobrecarga de método não é permitido em Ruby, só considera o último declarado
+#object_id-> id do objeto
+#Conv-> nome_de_variavel
+#sleep 1 -> sleep de C
+#tudo é expressão
+
+Comentários
+	=begin
+	=end
+
+Palavras reservadas
+	alias and BEGIN begin break case class def defined 
+	do else elsif END end ensure false for if in module 
+	next nil not or redo rescue retry return self super 
+	then true undef unless until when while yield
+
+Fixnum
+	->num inteiros
+	->numeros grandes podem ser separados por _=> 700_00_0
+	a**b-> Potenciação
+Ranges
+	(1..3) ->[1,3]
+	('a'..'z')->['a','z']
+	(0...10)->[0,10[
+
+String
+	'Isso é "normal" e \'util\' no mundo Ruby'
+	"Isso é \"normal\" e 'util' no mundo Ruby"
+	Qualquer coisa depois de um % é aceito: caracteres delim a str
+		%{Isso é "normal" e 'util' no mundo Ruby}
+		%[Isso é "normal" e 'util' no mundo Ruby]
+		%?Isso é "normal" e 'util' no mundo Ruby?
+		%~Isso é "normal" e 'util' no mundo Ruby~
+		%{Isso é "normal" e {util} no mundo Ruby}
+	<< -> operação append (concatena na mesma string [cout de cpp])
+	+ -> concatena e retorna uma mova string
+	capitalize -> retorna uma string com o primeiro caractere em caixa alta
+	! -> eh usado após um método e altera o objeto o qual o método atua
+	== -> compara as strings
+
+Interpolação em Strings
+	nome="KOK"
+	lll= "Seja #{nome}"
+	#=> Seja KOK
+
+Symbol (i dont know the utility)
+	imutaveis e constantes
+	:simbolo_aqui
+
+Expressões regulares (Regex)
+	/expressao/
+	=~ -> operador de match, retorna a posição onde o padrão foi encontrado
+	match -> método que faz match e retorna informações úteis
+	rubular.com
+
+Impressão
+	puts -> imprime com \n
+	print ->imprime sem \n
+	p ->chama o método inspect do objeto
+	
+Estruturas de controle
+	Condicional
+		if x>18 then puts nome end
+		if x>18
+			puts nome
+		end	
+		puts nome if x>18
+		valor=if x>18 then 1 else 3 end
+		unless = if not
+		case var
+		when caso
+	Loops	
+		for n in list
+		for n in list do
+		while eh o de sempre
+		until = while not
+	
+	Parênteses quase sempre podem ser substituídos
+
+NIL TYPE-> tipo nulo
+	-> nil? é um método que retorna true se o objeto é nil
+	-> assume false num condicional
+
+Objetos
+	"Classes podem ser 'redeclaradas' em qualquer ponto da aplicação, não ocorrerá erros. O interpretador 
+		só irá fazer um append no conteúdo da classe" (classes abertas)
+	self -> referência para si mesmo (que aparentemente não é obrigatório ser usado)
+	
+	def initializa(par, par2, par3=12)
+	Métodos:
+		initialize-> construtor
+		to_s-> toString	(puts chama ele)
+		inspect-> um toString para debugs (p chama ele)
+		preco-> getPreco() de Java
+			inst.preco-> retorna preco
+		preco=(preco) [ou sem par]-> setPreco(preco) de Java
+			inst.preco=(valor)-> setPreco(valor)
+		equals?-> equals que não deve ser sobrescrito
+		eql?-> equals (usado por array)
+		==-> pode ser sobrescrito
+		hash-> eh usado por Set
+	
+	Métodos de object
+		new ->chama initialize
+		send(met,param..) -> chama o método met com os parâmetros param
+		
+	Variáveis de instancia:
+		->Começa com @
+		-> São sempre privadas
+
+	Métodos que acessam qualquer atributo (herdados de object)
+		instance_variable_set "nomeDoAtributo", valor
+		instance_variable_get "nomeDoAtributo"	
+		
+	Criadores de metodos de acesso?	
+		attr_acessor -> get and set
+		attr_reader -> get
+		attr_write -> set
+
+Array-> Um list de python?
+	first e last-> primeiro e ultimo elemento
+	[x] -> Acessar elemento x
+	<< x-> Add no fim do array
+	
+	Array de strings
+		%w{kkk kl} => [kkk,kl]
+		%W{kkk #{interp}} => [kkk,valorDeInterp]
+
+Hash-> Dicionário de Python?
+	kkk={"AAA"=> "aas", "lll"=>"dww"}
+	[chave]-> acessar valor
+	kkk[chave] ||= "sdos"-> já existe a chave? se não, adiciona
+	values-> método getvalores
+	flatten-> remove as estruturas e poe seus valores na est pai
+	
+	Se as chaves forem Symbols, pode-se declarar assim:
+		kkk{teste: "as",lll: "ll"}
+		O acesso: kkk[:teste]
+
+Set (Não vem no default-> require 'set')
+	pode receber um array como argumento
+
+Expressão
+	a=b=c=0
+	
+
+Operador ||=
+	atribuição caso o objeto da esquerda seja nil
+
+Parametros
+	3 tipos de parametros, pode-se passar a ordem errada dos parametros e o Ruby entender #p. 33
+	* -> vários parâmetros (o .. de java), vem em forma de array
+	hashs são usados para melhorar a legibilidade das chamadas dos métodos
+
+Função
+	return não é obrigatório
+	retorna a última linha da função
+
+Funções de alta ordem
+	Blocos
+		{|numero| p numero}
+		{|numero| numero*2}
+		Podem ser passados para os métodos de Array
+			each-> executa o bloco para cada elem
+			collect-> retorna um novo array modif pelo {} 
+	
+
+File
+	expand_path(String)	->retorna o caminho completo do param
+
+Arquivos
+	File.new(nome,formaDeAbertura)
+
+URI
+	float possui o metodo round que arredonda para o numero de casas passado, porem nao obriga o numero a ficar daquele tamanho
+	para obrigar a string a ficar de um certo tamanho, usar o % de python
+	Aparentemente Math já está requerida por default, entao basta chamar Math.sqrt, por exemplo
+
+Blocos
+	nome_met(&bloco)
+	block.call(paramUtilizadoPeloBloco)
+	block_given?-> Diz se foi passado algum bloco pro método
+		def met(&bloco)
+			if block_given?
+				bloco.call(alguem)
+			end
+		end
+		### Chamada
+		x.met do |var|
+			#faz algo
+		end
+		##Ou
+		x.met {|var| #faz algo}
+	pode-se fazer da mesma forma sem usar o parm &bloco e trocando a chamada call por yield
+
+
+exit-> encerra a aplicação
+
+Exceções
+	Raising = Lançamento de Exceções
+	begin - rescue - end = try - except
+	raise (exceção, texto) -> lançar exceção
+
+	begin 
+	rescue NomeDaExceção=> e
+		#e eh a string de erro?
+	end
+
+	throw symbol,string ->symbol serve como identificador de tipo de exceção
+	catch symbol do - end -> esse bloco captura todas as exceções do tipo symbol e encerra a execução do bloco na linha que ocorreu a exceção
+
+Herança
+	class a <b -> a herda de b/
+
+Classes
+	Nomes de classes tem que ter o primeito caractere maiúsculo, pois nomes desse tipo são considerados constantes
