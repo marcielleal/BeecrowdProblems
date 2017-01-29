@@ -1,0 +1,2088 @@
+
+                              S G C - 2014
+
+ LEAL FARMA                    
+ Emiss∆o.:27/12/2016  †s  13:51:34                                   PAG Nß001
+ Relatorio Posicao do Estoque
+ Ordem do Relatorio..: Alfabetico
+===============================================================================
+
++-------------+-----------------------------------+----+----------+----------+
+|  Codigo     |            Descricao              | Uni|   Qtd    | Contado  |
++-------------+-----------------------------------+----+----------+----------+
+|0000000076   |AAS 500MG BL                       |BL  |        34|__________|
+|0000000107   |ABAIXADOR DE LINGUA                |UNID|       100|__________|
+|7896241225127|ABLOK PLUS 50/12,5MG C/30CPR       |CX  |         5|__________|
+|7891010101688|ABS P/ SEIOS JOHNSONS C/12         |CX  |         0|__________|
+|7891010046927|ABS PARA SEIOS C/24UND             |CX  |         0|__________|
+|7891010973483|ABS SEMPRE LIVRE                   |PC  |         0|__________|
+|7894916144971|AC TRANEXAMICO 250MG               |CX  |         4|__________|
+|4015630065233|ACCU-CHEK C/25 TIRAS               |CX  |         0|__________|
+|7894916140485|ACEBROFILINA 120ML -LEGRAND        |CX  |         8|__________|
+|7896523209111|ACEBROFILINA 50MG/5ML 120ML CIMED  |CX  |         3|__________|
+|7896523209128|ACEBROFILINA ADULT 120ML CIMED     |CX  |         0|__________|
+|7896004710464|ACEBROFILINA PED 120ML-EMS         |CX  |         4|__________|
+|7899095233034|ACEBROFILINA SUSP INF 120ML        |CX  |         0|__________|
+|7898049795260|ACECLOFENACO 100MG C/12CPR         |CX  |         5|__________|
+|7896004715292|ACETILCISTEINA 20MG/ML             |CX  |         2|__________|
+|7899095233799|ACETILCISTEINA ADUL 120ML 40MG/ML  |FR  |         1|__________|
+|7894916142632|ACETILCISTEINA C/16 ENV            |CX  |         2|__________|
+|001          |ACETILDOR C/10CP                   |CP  |        76|__________|
+|7896004715933|ACICLOVIR 5% 10G-EMS               |CX  |        -1|__________|
+|7898495600255|ACNEE LOSS GEL 20G                 |CX  |         6|__________|
+|7898277710332|ACNOL 60G                          |CX  |         3|__________|
+|7891317480738|ACTIVELLE C/28COMP                 |CX  |         1|__________|
+|7897322709529|ADDERA D3 50MIL UI C/4CPR          |CX  |         0|__________|
+|7897322709727|ADDERA D3 7.000UI C/4CPS           |CX  |         1|__________|
+|7897322709758|ADDERA D3 C/4CPS                   |CX  |         0|__________|
+|036          |ADEFORTE AMP                       |AMP |         1|__________|
+|7896658002960|ADINOS 0,5MG/G 30G                 |CX  |         1|__________|
+|7896658021732|ADIPEPIT 40MG C/28CPR              |CX  |         2|__________|
+|7891104393104|ADOCYL 100ML                       |FR  |         2|__________|
+|7898040320683|ADOLESS C/28CPR                    |CX  |         2|__________|
+|0000000085   |ADVIL C/3 CPS                      |BL  |         0|__________|
+|7896269900068|AEROLIN 5MG/ML 10ML                |CX  |         1|__________|
+|7896269900150|AEROLIN SPRAY 14,6ML               |CX  |         2|__________|
+|7896902231313|AGUA BORICADA FARMAX 100ML         |FR  |         4|__________|
+|7898031310112|AGUA OXIGENADA  10V UNIPHAR 100ML  |FR  |         2|__________|
+|7896902211544|AGUA OXIGENADA FARMAX 100ML        |CX  |         4|__________|
+|7896902201590|AGUA OXIGENADA VOL 10 FARMAX       |FR  |        10|__________|
+|7898361700157|AGUA P/ INJECAO                    |AMP |         6|__________|
+|7897732603349|AGUAR SOBRAL 100ML                 |FR  |         3|__________|
+|7897732610965|AGUARD SOBRAL 200ML                |FR  |         2|__________|
++-------------+-----------------------------------+----+----------+----------+
+                              S G C - 2014
+
+ LEAL FARMA                    
+ Emiss∆o.:27/12/2016  †s  13:51:34                                   PAG Nß002
+ Relatorio Posicao do Estoque
+ Ordem do Relatorio..: Alfabetico
+===============================================================================
+
++-------------+-----------------------------------+----+----------+----------+
+|  Codigo     |            Descricao              | Uni|   Qtd    | Contado  |
++-------------+-----------------------------------+----+----------+----------+
+|7898944234819|AGUARDENTE ALEMA ROCHA 200ML       |FR  |       -11|__________|
+|1234567891408|AGUARDENTE ALEMA P/ DERRAME 350ML  |GA  |         6|__________|
+|7898944234659|AGUARDENTE ROCHA 100ML             |FR  |       -10|__________|
+|7899095205062|ALBEL 400MG C/3CPR                 |CX  |        13|__________|
+|7899095201934|ALBEL 400MG D.U.                   |CX  |        12|__________|
+|7899095201972|ALBEL SUSP                         |FR  |        24|__________|
+|7895296210218|ALBENDAZOL SUSP                    |CX  |         6|__________|
+|7894916143264|ALBENDAZOL SUSP 10ML               |CX  |        12|__________|
+|7896902210479|ALCOOL 70% FARMAX 50ML             |FR  |         1|__________|
+|7896902212084|ALCOOL GEL 70%                     |FR  |         5|__________|
+|7896181905295|ALENIA C/60CPR + INALADOR          |CX  |         1|__________|
+|7896181918943|ALENIA C/60CPS                     |CX  |         1|__________|
+|7896523200590|ALGEXIN GTS 15ML                   |FR  |         1|__________|
+|7896360001176|ALGI ARTICULAR C/30CPR             |CX  |        -1|__________|
+|7891721013010|ALGINAC 1000MG C/15CPR             |CX  |        -2|__________|
+|7891721008405|ALGINAC 1000MG C/30CPR             |ENV |         4|__________|
+|7894488000064|ALGODAO FLOC 25G                   |PC  |         1|__________|
+|0000000061   |ALGY-FLANDERIL 300CPR              |CX  |       -19|__________|
+|7898049796502|ALGY-FLANDERIL 300MG               |CX  |         6|__________|
+|7898049796519|ALGY-FLANDERIL 600MG CPR           |CX  |        50|__________|
+|7898495607384|ALIVIOL AERO                       |FR  |         3|__________|
+|7898158690487|ALIVIOL POM 20MG                   |CX  |         5|__________|
+|7891142115478|ALIVIUM SUSP 50MG/ML 30ML          |FR  |         3|__________|
+|7891058004347|ALLEGRA PED XR                     |CX  |         1|__________|
+|7899547503913|ALOPURINOL 300MG C/30CPR           |CX  |         1|__________|
+|7896004718866|ALPRAZOLAM 0,5MG C/30CPR           |CX  |         3|__________|
+|7895296280143|ALPRAZOLAM 1MG C/30CPR-NOVA QUIM   |CX  |         2|__________|
+|7896004718897|ALPRAZOLAM 2MG C/30CPR             |CX  |         2|__________|
+|7896181919391|ALPRAZOLAM 2MG C/30CPR - BIOS      |CX  |         2|__________|
+|7896714223865|ALPRAZOLAM 2MG C/30CPR-NEOQ        |CX  |         1|__________|
+|7896714221472|ALPRAZOLAN 0,15MG C/30CPR          |CX  |         1|__________|
+|0000000142   |ALTIVA 120MG C/10CPR               |CX  |         1|__________|
+|7891317443399|AMATO 100MG C/60CPR                |CX  |         1|__________|
+|7898100243150|AMBROL ADULT 100ML 30MG/5ML        |FR  |        24|__________|
+|7898100243143|AMBROL PED 15MG/5ML 100ML          |UNID|        25|__________|
+|7898075315579|AMBROXOL PED 3MG/ML                |CX  |        11|__________|
+|7897595629203|AMIDALIN YEP!                      |CX  |         9|__________|
+|7898049794874|AMINOFILINA 100MG C/20             |CX  |         5|__________|
+|7898049794881|AMINOFILINA 200MG C/20CPR          |CX  |         5|__________|
+|7899095200456|AMIORON 200MG C/20CPR              |CX  |         4|__________|
++-------------+-----------------------------------+----+----------+----------+
+                              S G C - 2014
+
+ LEAL FARMA                    
+ Emiss∆o.:27/12/2016  †s  13:51:34                                   PAG Nß003
+ Relatorio Posicao do Estoque
+ Ordem do Relatorio..: Alfabetico
+===============================================================================
+
++-------------+-----------------------------------+----+----------+----------+
+|  Codigo     |            Descricao              | Uni|   Qtd    | Contado  |
++-------------+-----------------------------------+----+----------+----------+
+|7896714208183|AMITRIPTILINA 25MG C/20CPR NEOQ    |CX  |         2|__________|
+|7896422511964|AMITRIPTILINA 25MG C/20CPR-MEDLEY  |CX  |        13|__________|
+|7891317408060|AMITRIPTILINA 25MG C/30CPR-EURO    |CX  |        10|__________|
+|7896004727776|AMITRIPTILINA 25MG C\30CP EMS      |CX  |        12|__________|
+|7896004727493|AMITRIPTILINA, CL 25MG C/30CPR GERM|CX  |        34|__________|
+|7891317469283|AMOX+CLAV SUSP 70ML EURO           |CX  |         4|__________|
+|7896004703404|AMOX+CLAVULANATO 500+125MG EMS     |CX  |         6|__________|
+|7897595614384|AMOXIC+CLAV 400/57MG 70ML SAND     |CX  |        -1|__________|
+|7896004719580|AMOXIC+CLAVULANATO 875+125MG EMS   |CX  |         2|__________|
+|7896714205731|AMOXICILINA 250/5ML 150ML-NEO      |CX  |         2|__________|
+|7898075315098|AMOXICILINA 250MG/ML -CIEMD        |CX  |         5|__________|
+|7896004702216|AMOXICILINA 250MG/ML 150ML         |CX  |        30|__________|
+|7898148298877|AMOXICILINA 250ML/5ML 150ML        |UNID|         1|__________|
+|7898148298891|AMOXICILINA 250ML/5ML 60ML         |FR  |       -32|__________|
+|7898075315029|AMOXICILINA 500MG C/21CPR          |CX  |        11|__________|
+|7891317001568|AMOXICILINA 50MG/ML -EURO          |CX  |         2|__________|
+|021          |AMOXICILINA AVULSA                 |CX  |        26|__________|
+|7896472508303|AMPICILAB 500MG C/10CPR            |CX  |         3|__________|
+|024          |AMPICILAB 500MG CPR                |CP  |         3|__________|
+|7896472509263|AMPICILAB 60ML 250MG/5ML           |FR  |         6|__________|
+|7896714203546|AMPICILINA 250/ML 150ML            |CX  |         5|__________|
+|7896070600126|AMPLICTIL 100MG C/20CPR            |CX  |         2|__________|
+|7896676413045|AMYTRIL 10MG C/30CPR               |CX  |         4|__________|
+|7896676400083|AMYTRIL 25MG C/20CPR               |CX  |        11|__________|
+|7896676422269|AMYTRIL 25MG C/30CPR               |CX  |         6|__________|
+|7896676410518|AMYTRIL 75MG C/20CPR               |CX  |         1|__________|
+|007          |ANADOR                             |BL  |       124|__________|
+|7897230301976|ANASOL 35 FPS 60G                  |BG  |         2|__________|
+|7896094207844|ANCORON 100MG C/30CPR              |CX  |         1|__________|
+|7891317472764|ANDOLBA 30G                        |CX  |         1|__________|
+|7891317477141|ANDOLBA AERO 43G                   |CX  |         1|__________|
+|7896181916086|ANGIPRESS 50/12,5MG C/30CPR        |CX  |         4|__________|
+|7898075314312|ANLODIPINO 5MG C/30CPR             |CX  |         4|__________|
+|7899095238527|ANLODIPINO, B 5MG C/30CPR          |CX  |         3|__________|
+|7898040321512|ANNITA 500MG C/6CPR                |CX  |         3|__________|
+|7898040321420|ANNITA SUSP 45ML                   |CX  |         2|__________|
+|7896685300602|ANSIOPAX C/20CAP                   |CX  |         3|__________|
+|7896185909411|ANTIETANOL C/20CPR                 |CX  |         4|__________|
+|7896540792757|APAR DE PRESS«O INCONTERM          |CX  |         2|__________|
+|0000000092   |APAR. PRESS«O OMRON                |CX  |         1|__________|
++-------------+-----------------------------------+----+----------+----------+
+                              S G C - 2014
+
+ LEAL FARMA                    
+ Emiss∆o.:27/12/2016  †s  13:51:34                                   PAG Nß004
+ Relatorio Posicao do Estoque
+ Ordem do Relatorio..: Alfabetico
+===============================================================================
+
++-------------+-----------------------------------+----+----------+----------+
+|  Codigo     |            Descricao              | Uni|   Qtd    | Contado  |
++-------------+-----------------------------------+----+----------+----------+
+|7899620910584|APETIINA BC UVA 240ML              |CX  |         7|__________|
+|7899620910607|APETISINA BC FRUT VERM 240ML       |CX  |         5|__________|
+|7898495603843|APETIVITON BC                      |FR  |        10|__________|
+|7896004700502|APEVITIN BC 240ML                  |CX  |         4|__________|
+|7895296094320|ARACOR HCT 160+25MG C/30CPR        |CX  |         4|__________|
+|7895296094306|ARACOR HCT 160/12,5MG C/30CPR      |CX  |         0|__________|
+|7895296094344|ARACOR HCT 320+25MG                |CX  |         1|__________|
+|7896241241394|ARADOIS 25MG                       |CX  |         2|__________|
+|0000000084   |ARADOIS 50MG BL10                  |CX  |         6|__________|
+|7896112435778|ARADOIS H 50/12,5MG                |CX  |         0|__________|
+|0000000083   |ARADOIS H 50/12,5MG BL10           |BL  |        10|__________|
+|7897337705004|ARCOXIA 90MG                       |CX  |         2|__________|
+|7898096577857|ARFLEX C/12CPR                     |CX  |         2|__________|
+|7898096577840|ARFLEX RETARD C/6CPR               |CX  |         0|__________|
+|7896317909142|ARGIX 500MG C/60CPR                |CX  |         1|__________|
+|7898133136634|ARLIVRY 100ML                      |CX  |        15|__________|
+|7898277710363|AROM BUCAL A. FRESH M+P 35ML       |CX  |         4|__________|
+|7898277710370|AROM BUCAL A.FRESH  M+P+G 35ML     |FR  |         2|__________|
+|7898277710387|AROM BUCAL A.FRESH M+P+M 35ML      |FR  |         2|__________|
+|7898277712978|AROM BUCAL A.FRESH M+P+MALVA 35ML  |CX  |         0|__________|
+|7898277710394|AROM. BUCAL A. FRESH M+P+R 35ML    |FR  |         2|__________|
+|7891106006361|AROVIT C/30DRG                     |CX  |         0|__________|
+|7898216360598|ARTRITEC 15MG C/10CPR              |CX  |         0|__________|
+|044          |ARTRITEC CP                        |CP  |         3|__________|
+|7896658004858|ARTROLIVE 30CAP                    |CX  |         3|__________|
+|0000000125   |AS-MED 500MG C/10CPR               |CX  |        39|__________|
+|7896004725574|ASMALIV 20ML                       |CX  |         2|__________|
+|7896714200712|ASMAPEN 200MG C/20CPR              |CX  |         3|__________|
+|0000000168   |ASPIRINA 500MG CPR                 |BL  |        82|__________|
+|7891106001946|ASPIRINA PREVENT 100MG C30CPR      |CX  |         6|__________|
+|0000000098   |ASSERT 100MG 30CPR                 |CX  |         0|__________|
+|7899640803880|ASSERT 25MG C/30CPR                |CX  |         0|__________|
+|7898172860132|ATADURA NEVE 10CM                  |PC  |        11|__________|
+|7898172860149|ATADURA NEVE 12CM                  |PC  |        30|__________|
+|7898172860156|ATADURA NEVE 15CM                  |PC  |         5|__________|
+|7896472513130|ATENOLAB 25MG C/30CPR              |CX  |         2|__________|
+|7896472513314|ATENOLAB 50MG C/30CPR              |CX  |         0|__________|
+|7894916144209|ATENOLOL 25MG C/30CPR LEGRAND      |CX  |        10|__________|
+|7898049792979|ATENOLOL 25MG C/30CPR-VITAMEDIC    |CX  |        22|__________|
+|7896714215129|ATENOLOL 50MG C/30CPR              |CX  |         4|__________|
++-------------+-----------------------------------+----+----------+----------+
+                              S G C - 2014
+
+ LEAL FARMA                    
+ Emiss∆o.:27/12/2016  †s  13:51:34                                   PAG Nß005
+ Relatorio Posicao do Estoque
+ Ordem do Relatorio..: Alfabetico
+===============================================================================
+
++-------------+-----------------------------------+----+----------+----------+
+|  Codigo     |            Descricao              | Uni|   Qtd    | Contado  |
++-------------+-----------------------------------+----+----------+----------+
+|7894916144698|ATENOLOL+CLORTALIDONA 50/12,5MG    |CX  |         1|__________|
+|7896026300162|ATENSINA 0,1MG C/30CPR             |CX  |         5|__________|
+|7899420506369|ATIP 25MG C/30CPR                  |CX  |         1|__________|
+|7896026300216|ATROVENT 20ML                      |CX  |         2|__________|
+|015          |ATROVERAN COMPOSTO C/6CPR          |BL  |        25|__________|
+|7891104195067|ATROVERAN GTS 10MG/ML 30ML         |FR  |         1|__________|
+|0000002502196|AZITROLAB 500MG 3CPR               |CX  |        23|__________|
+|7896472502196|AZITROLAB 500MG C/3CPR             |CX  |         6|__________|
+|7898216364510|AZITROPHAR 600MG                   |FR  |        10|__________|
+|7898216364527|AZITROPHAR 900MG SUSP              |FR  |        12|__________|
+|7896548168745|AZOPT 5ML                          |CX  |         1|__________|
+|7896548197967|AZORGA COL                         |FR  |         2|__________|
+|8902220106079|AZUKON MR 30MG                     |CX  |         1|__________|
+|7899470805726|BABY-D 45G                         |CX  |         5|__________|
+|7899470806099|BABY-D MENINA                      |CX  |         3|__________|
+|7897917000826|BACINA 15G                         |CX  |         4|__________|
+|7897732601482|BACSULFAPRIM 100ML                 |CX  |        18|__________|
+|7897732602373|BACSULFAPRIM 50ML                  |CX  |         4|__________|
+|7896523201009|BACTROPIN 100ML                    |CX  |         8|__________|
+|7896523201023|BACTROPIN C/20CPR                  |CX  |         3|__________|
+|7896004726793|BALSAMO BENGUE AERO 60G            |FR  |         5|__________|
+|7896004817576|BALSAMO BENGUE GEL                 |BG  |         4|__________|
+|7896004817569|BALSAMO BENGUE POM                 |CX  |         0|__________|
+|7891010504755|BAND-AID C/40UN                    |CX  |         3|__________|
+|7898015061283|BATOM ROLLON M. DE CACAU 15ML      |UNID|         4|__________|
+|7899095220492|BEBEX ADE                          |CX  |         3|__________|
+|7899095220478|BEBEX N 60G                        |CX  |         6|__________|
+|7899095222168|BEBEX PREVINE 45MG                 |CX  |         9|__________|
+|7897411611023|BEBICAR 40/5MG C/ 30CPR            |CX  |         0|__________|
+|7897917000352|BELCOMPLEX XR 100ML                |CX  |         5|__________|
+|7897917000031|BELMIRAX C/ 6CPR                   |CX  |        10|__________|
+|7897917001397|BELSPAN COMPOSTO C/20CPR           |CX  |         3|__________|
+|017          |BELSPAN COMPOSTO CPR               |CP  |        16|__________|
+|039          |BENALET PASTILHA                   |UNID|       110|__________|
+|7898495603812|BENATUX 120ML                      |CX  |        13|__________|
+|0000000094   |BENATUX PLAST. UND                 |UNID|        72|__________|
+|7898100243327|BENECLER                           |FL  |         5|__________|
+|0000000057   |BENEFIG BOLDO                      |CX  |        94|__________|
+|040          |BENEGRIP BL6                       |BL  |        44|__________|
+|7896004706146|BENEVRAN 60G                       |CX  |         1|__________|
++-------------+-----------------------------------+----+----------+----------+
+                              S G C - 2014
+
+ LEAL FARMA                    
+ Emiss∆o.:27/12/2016  †s  13:51:34                                   PAG Nß006
+ Relatorio Posicao do Estoque
+ Ordem do Relatorio..: Alfabetico
+===============================================================================
+
++-------------+-----------------------------------+----+----------+----------+
+|  Codigo     |            Descricao              | Uni|   Qtd    | Contado  |
++-------------+-----------------------------------+----+----------+----------+
+|7896920301920|BENEZIL 150ML MAMAO                |CX  |         2|__________|
+|7896920301906|BENEZIL 150ML MOR                  |CX  |         4|__________|
+|7897411610606|BENICAR 20MG                       |CX  |         0|__________|
+|7897411611030|BENICAR ANLO C/30CPR               |CX  |         3|__________|
+|7897411610668|BENICAR HCT 20/12,5 C/30CPR        |CX  |         2|__________|
+|7897411610675|BENICAR HCT 40/12,5MG C/30CPR      |CX  |         0|__________|
+|7897411610682|BENICAR HCT 40/25MG C/30CPR        |CX  |         0|__________|
+|7898060131184|BENZIN 60G                         |CX  |         4|__________|
+|7891106907293|BEPANTOL SOL                       |CX  |         1|__________|
+|7898049793068|BERITIN BC 240ML                   |CX  |         4|__________|
+|7896026302784|BEROTEC 10ML                       |CX  |         0|__________|
+|7897595901187|BESEROL C/12CPR                    |CX  |         2|__________|
+|7899095200364|BESILAPIN 10MG C/30CPR             |CX  |         0|__________|
+|7899095200333|BESILAPIN 5MG C/30CPR              |CX  |         7|__________|
+|0000000064   |BESODIN CPR                        |UNID|       100|__________|
+|7897917001168|BETACORTAZOL 30G                   |BG  |        40|__________|
+|7891317141967|BETAMETASONA INJ EURO              |CX  |         1|__________|
+|7891317103323|BETATRINTA INJ C/1AMP              |CX  |         6|__________|
+|7891317436322|BETES 4MG C/30CPR                  |CX  |         1|__________|
+|7891317478919|BETINA 16MG C/30CPR                |CX  |         3|__________|
+|7891317478964|BETINA 24MG C/30CPR                |CP  |         2|__________|
+|7899095203273|BETRICORT POM 30G                  |CX  |         4|__________|
+|7896714230078|BETSONA CR 30G                     |CX  |         5|__________|
+|7896714230085|BETSONA POM 30G                    |CX  |         5|__________|
+|7899095203075|BEXETON 120ML                      |CX  |        13|__________|
+|7897316801178|BIAMOTIL 5ML                       |CX  |         1|__________|
+|7896902206465|BICARBONATO DE SODIO 80G           |CX  |         1|__________|
+|7896902206380|BICARONATO DE SODIO FARMAX         |FR  |         5|__________|
+|7896006229964|BIO C 1G                           |CX  |         0|__________|
+|7896006298298|BIO E C/30CPR                      |CX  |         4|__________|
+|7896658006913|BIOFENAC ACHE ARE                  |FR  |         3|__________|
+|7896094903067|BIOTONICO FONTOURA 400ML           |FR  |         6|__________|
+|7896202500102|BIOVITA 1G C/10CPR                 |CX  |         4|__________|
+|7896202501727|BIOVITA C 5G ENV                   |ENV |        46|__________|
+|7896004810140|BISMU-JET GTS                      |CX  |        12|__________|
+|7896862922122|BOLDOBEBA                          |FL  |        40|__________|
+|7894916507936|BRASART 160MG C/30CPR              |CX  |         3|__________|
+|7894916508377|BRASART HCT 320/25 C/30CPR         |CX  |         0|__________|
+|7894916509084|BRASART HCT 320MG+12,5MG           |CX  |         4|__________|
+|7896714212203|BROMAZEPAM 3MG C/30CPR             |CX  |         2|__________|
++-------------+-----------------------------------+----+----------+----------+
+                              S G C - 2014
+
+ LEAL FARMA                    
+ Emiss∆o.:27/12/2016  †s  13:51:34                                   PAG Nß007
+ Relatorio Posicao do Estoque
+ Ordem do Relatorio..: Alfabetico
+===============================================================================
+
++-------------+-----------------------------------+----+----------+----------+
+|  Codigo     |            Descricao              | Uni|   Qtd    | Contado  |
++-------------+-----------------------------------+----+----------+----------+
+|7896004713779|BROMAZEPAM 6MG C/30CPR             |CX  |         2|__________|
+|7896714212371|BROMAZEPAM 6MG C/30CPR NEOQ        |CX  |         4|__________|
+|7896685300473|BROMELIN SUSP 100ML                |CX  |         3|__________|
+|7896714270197|BROMIFEN 20ML                      |CX  |         3|__________|
+|7896004817507|BROMIL XR 150ML                    |FR  |         2|__________|
+|7896004817521|BROMIL XR INF 150ML                |CX  |         3|__________|
+|7898148298747|BROMOPRIDA GTS                     |CX  |         1|__________|
+|7896714265353|BROMOPRIDA GTS 20ML                |FR  |         1|__________|
+|7896004701233|BROMOPRIDA GTS 20ML -EMS           |CX  |         7|__________|
+|7896472504961|BRONCOFEDRIN                       |CX  |         4|__________|
+|7896004710532|BRONCOLEX 25/5ML 120ML             |VD  |         6|__________|
+|7891058019365|BUCLINA 25MG C/30CPR               |CX  |         7|__________|
+|7896360000933|BUCLIPLEX 120ML                    |CX  |         3|__________|
+|7896360000919|BUCLIPLEX C/30CPR                  |CX  |         7|__________|
+|7896472502769|BUPROVIL 300MG C/30CPR             |CX  |        17|__________|
+|7896472511730|BUPROVIL 300MG CPR                 |CP  |        94|__________|
+|7896472502776|BUPROVIL 600MG C/ 30CPR            |CX  |        18|__________|
+|7896472513307|BUPROVIL 600MG C/20CPR             |CX  |         4|__________|
+|0000000031   |BUPROVIL 600MG CPR                 |CP  |       -40|__________|
+|7896472503261|BUPROVIL GTS 50MG/ML 30ML          |FR  |        40|__________|
+|7795304000056|BUSCODUO C/20CPR                   |CX  |         2|__________|
+|7896026303002|BUSCOFEM C/10CPS                   |CX  |         1|__________|
+|7896026301428|BUSCOPAN COMPOSTO C/20CPR          |CX  |        -2|__________|
+|043          |BUSCOPAN COMPOSTO CPR              |CP  |         0|__________|
+|7896026300117|BUSCOPAN COMPOSTO GTS              |FR  |        25|__________|
+|7896026300315|BUSCOPAN GTS                       |CX  |         3|__________|
+|7896026300308|BUSCOPAN SIMPLES C/20CPR           |CX  |         6|__________|
+|7896181915171|BUSONID 32MCG                      |CX  |         2|__________|
+|7896181907176|BUSONID 50MCG                      |CX  |         3|__________|
+|011          |BUTACID C/10                       |BL  |        17|__________|
+|034          |BUTACID CPR                        |CP  |       -18|__________|
+|0000000167   |BUTACID NOVA C/10CPR               |BL  |        18|__________|
+|7896026301640|BUTAZONA CALCICA C/10CPR           |CX  |         2|__________|
+|7896004706269|C CALCIO C/10CPR EFERV             |CX  |         7|__________|
+|0000000110   |CALCANHEIRA FEM                    |CX  |         1|__________|
+|7899732100149|CALCIO+D NANO C/60CPS              |CX  |         0|__________|
+|7897917002783|CALCIOFAR B12 250ML                |FR  |         4|__________|
+|7896920301685|CALCIOPLEX 240ML                   |CX  |         4|__________|
+|7898133135699|CALCIOVITAL B12 250ML              |FR  |         1|__________|
+|7898557141320|CALCIOVITON 250ML                  |CX  |         5|__________|
++-------------+-----------------------------------+----+----------+----------+
+                              S G C - 2014
+
+ LEAL FARMA                    
+ Emiss∆o.:27/12/2016  †s  13:51:34                                   PAG Nß008
+ Relatorio Posicao do Estoque
+ Ordem do Relatorio..: Alfabetico
+===============================================================================
+
++-------------+-----------------------------------+----+----------+----------+
+|  Codigo     |            Descricao              | Uni|   Qtd    | Contado  |
++-------------+-----------------------------------+----+----------+----------+
+|7898414850242|CALCITRAN B12 150ML                |CX  |         5|__________|
+|7898414850891|CALCITRAN D3 C/30CPR               |CX  |         3|__________|
+|7896317900200|CALMAN 20CPR                       |CX  |         3|__________|
+|7896317900217|CALMAN XR 100ML                    |CX  |         2|__________|
+|7896004813226|CANDERM 20MG C/20CPR               |CX  |        25|__________|
+|7896658001116|CANDICORT CR 30G                   |CX  |         5|__________|
+|7896658001123|CANDICORT POM 30G                  |BG  |         5|__________|
+|7896112115045|CANDITRAT 50ML                     |CX  |         1|__________|
+|7896472504558|CAPTOLAB 25MG  C/60CPR             |CX  |        82|__________|
+|7896472501915|CAPTOLAB 25MG C/30CPR              |CX  |        -6|__________|
+|7896472502783|CAPTOLAB 50MG C/30CPR              |CX  |         6|__________|
+|7898049795697|CAPTOPRIL 25MG C/30CPR             |CX  |         2|__________|
+|7898216360161|CAPTOSEN 25MG C/30 CPR             |CX  |         5|__________|
+|7896422513913|CARBAMAZEPINA 200MG C/20CPR        |CX  |         1|__________|
+|7896004707198|CARBAMAZEPINA 200MG C/20CPR-GERMED |CX  |         1|__________|
+|7896422513975|CARBAMAZEPINA 200MG C/30CPR        |CX  |         5|__________|
+|7896181900405|CARBAMAZEPINA 200MG C/30CPR-BIOS   |CX  |         5|__________|
+|7896422514002|CARBAMAZEPINA 400MG C/30CPR        |CX  |         1|__________|
+|7896004707174|CARBAMAZEPINA 400MG C/30CPR-GERMED |CX  |        11|__________|
+|7896714207131|CARBOCISTEINA AD 100ML XR          |CX  |         5|__________|
+|7899095232686|CARBOCISTEINA INF 20ML/ML 100ML    |FR  |         3|__________|
+|7891317000189|CARBOLITIUM C/50 CPR               |CX  |         2|__________|
+|7891317000226|CARBOLITIUM CR 450MG C/30CPR       |CX  |         1|__________|
+|7896094202771|CARDILOL 12,5MG C/30CPR            |CX  |         3|__________|
+|7896658001178|CARNABOL C/20CPR                   |CX  |         6|__________|
+|7896658010286|CARNABOL KIDS 120ML                |CX  |         2|__________|
+|7896004731414|CARVEDILOL 25MG C/30CPR GERMED     |CX  |         4|__________|
+|7894916146388|CARVEDILOL 3,125MG -EMS            |CX  |         0|__________|
+|7896004731353|CARVEDILOL 3,125MG C/30CPR         |CX  |         1|__________|
+|7896181915027|CARVEDILOL 3,125MG C/30CPR-BIO     |CX  |         6|__________|
+|7895296092111|CARVEDILOL 6,25MG C/30CPR          |CX  |         6|__________|
+|7896004731377|CARVEDILOL 6,25MG C/30CPR GER      |CX  |         0|__________|
+|7896261013490|CATAFLAM 50MG C/10CPR              |CX  |         6|__________|
+|7896261013483|CATAFLAM 50MG C/20DRG              |CX  |         4|__________|
+|7896261000391|CATAFLAM GTS 20ML                  |CX  |         1|__________|
+|7898158693617|CATAFLEXYM GEL 60G                 |BG  |         1|__________|
+|7898049795611|CECOFLAN 100MG C/12CPR             |CP  |         1|__________|
+|123-PRO      |CEFAGEL 500MG C/10CAP              |CX  |        40|__________|
+|7896472502943|CEFAGEL 500MG C/10CPR              |CX  |        29|__________|
+|7896112128861|CEFALEXINA 250/5ML 100ML           |CX  |         4|__________|
++-------------+-----------------------------------+----+----------+----------+
+                              S G C - 2014
+
+ LEAL FARMA                    
+ Emiss∆o.:27/12/2016  †s  13:51:34                                   PAG Nß009
+ Relatorio Posicao do Estoque
+ Ordem do Relatorio..: Alfabetico
+===============================================================================
+
++-------------+-----------------------------------+----+----------+----------+
+|  Codigo     |            Descricao              | Uni|   Qtd    | Contado  |
++-------------+-----------------------------------+----+----------+----------+
+|7896006212300|CEFALEXINA 250MG/5ML SUSP 100ML    |FR  |         2|__________|
+|PROB         |CEFALIUM C/12                      |CX  |         4|__________|
+|7896658002205|CEFALIUM C/12CPR                   |CX  |        10|__________|
+|7896658001079|CEFALIV C/12CPR                    |CX  |         1|__________|
+|7896004706573|CELERGIN C/20 CPR                  |CX  |        16|__________|
+|7896004706764|CELERGIN XR 120ML                  |CX  |         0|__________|
+|7891142126139|CELESTAMINE C/ 20CPR               |CX  |         4|__________|
+|0000000049   |CELESTAMINE CPR                    |CP  |       -37|__________|
+|7891142126153|CELESTAMINE GTS                    |CX  |         2|__________|
+|7891142115614|CELESTAMINE XR 120ML               |FR  |         1|__________|
+|7891142128133|CELESTONE C/20CPR                  |CX  |        11|__________|
+|0000000058   |CELESTONE CPR                      |CX  |       -49|__________|
+|7891142128249|CELESTONE XR 120ML                 |FR  |         3|__________|
+|7899095201941|CELETIL XR 120ML                   |FR  |        67|__________|
+|7896006240990|CELETRAT 2/0,25MG C/15CPR          |CX  |         4|__________|
+|020          |CELETRAT CPR                       |CP  |       -26|__________|
+|7896006284369|CELETRAT XR 120ML                  |FR  |         2|__________|
+|7896004714820|CENEVIT 1G C\10CP                  |CX  |         6|__________|
+|7896004714837|CENEVIT 2G C/10CPR                 |CX  |         6|__________|
+|7894913000492|CENTROLIV C/30CPR                  |FR  |         2|__________|
+|7894913000980|CENTROLIV MEN'S C/30CPR            |CX  |         3|__________|
+|7894913000973|CENTROLIV WOMEN'S C/30CPR          |FR  |         3|__________|
+|7891058011369|CEPACOL TUTTI-FRUTTI 250ML         |CX  |         3|__________|
+|7896714222417|CEPROFEN 50MG C/24CPS              |CX  |         3|__________|
+|7898903925468|CERA PROF DEPIROLL FRIA            |FR  |         1|__________|
+|0000000105   |CERAZETTE 28CPR                    |BL  |         4|__________|
+|7896548140284|CERUMIN                            |CX  |         1|__________|
+|7897595603173|CETIHEXAL 10MG C/1CPR              |CX  |         4|__________|
+|7896714216416|CETILPLEX ADU 200MG C/16ENV        |CX  |         6|__________|
+|7896714207032|CETOCONAZOL 200MG C/10CPR-NEOQ     |CX  |         4|__________|
+|7896112125457|CETOCONAZOL SH 100ML               |CX  |         2|__________|
+|7898060131238|CETOMICOSS 20G                     |CX  |        12|__________|
+|7898286200091|CHA DE BOLDO DO CHILE MARATA       |CX  |         2|__________|
+|7898286200121|CHA DE CIDEIRA MARATA              |CX  |         2|__________|
+|7898286200138|CHA DE ERVA DOCE MARATA            |CX  |         3|__________|
+|7898557143515|CHµ VALE SONO                      |CX  |         1|__________|
+|650240028694 |CICATRICURE ESTRIAS 400G           |CX  |         2|__________|
+|650240013676 |CICATRICURE GEL                    |CX  |         1|__________|
+|7896472510511|CICLATRY C/14CPR                   |CX  |        10|__________|
+|7896006234067|CICLO 21                           |CX  |        71|__________|
++-------------+-----------------------------------+----+----------+----------+
+                              S G C - 2014
+
+ LEAL FARMA                    
+ Emiss∆o.:27/12/2016  †s  13:51:34                                   PAG Nß010
+ Relatorio Posicao do Estoque
+ Ordem do Relatorio..: Alfabetico
+===============================================================================
+
++-------------+-----------------------------------+----+----------+----------+
+|  Codigo     |            Descricao              | Uni|   Qtd    | Contado  |
++-------------+-----------------------------------+----+----------+----------+
+|000N1        |CICLO 21  C/21CPR PROBLEMA         |CX  |        62|__________|
+|7898505091349|CICLOFEMME C/21DRG                 |CX  |        53|__________|
+|7891106905886|CICLOPRIMOGYNA C/21DRG             |CX  |         3|__________|
+|7896112119609|CIEMTIDINA C/20CPR                 |CX  |         6|__________|
+|049          |CIFLOGEX PLASTILHA UND             |UNID|         8|__________|
+|7896523206271|CIFLOGEX SPRAY MEL 30ML            |FR  |         6|__________|
+|7896523206288|CIFLOGEX SPRAY MENTA               |FR  |         0|__________|
+|042          |CIMEGRIPE CPR                      |CP  |        16|__________|
+|7896112110378|CIMETIDINA 200MG C10COMP           |CX  |         7|__________|
+|7896714215976|CIPROFIBRATO 100MG                 |CX  |         4|__________|
+|7898075315654|CIPROFLOXACINO 500MG C/14CPR       |CX  |         6|__________|
+|7898100242979|CIPROFLOXACINO, BRAS 14CPR         |CX  |         8|__________|
+|7898060131399|CIPROFLOXACINO, CL 500MG C/14 GLOBO|CX  |         3|__________|
+|7894916143998|CIPROFLOXACINO, CL 500MG C/14CPR-L |CX  |        12|__________|
+|7896472510481|CIPROFLOXACINO, CLORID 500MG C/14CP|CX  |         3|__________|
+|7899095204041|CIPROFLOXACINO,CL 500MG C/14 GEOL  |CX  |         1|__________|
+|7898060138534|CIPROFLOXATRIN 500MG C/14CPR       |CX  |         1|__________|
+|7896422515580|CITALOPRAM 20MG C/30CPR-MEDL       |CX  |         0|__________|
+|7897595602954|CITALOPRAM 20MG C/30CPR-SANDOZ     |CX  |         4|__________|
+|7891721028335|CITONEURIN 5000 C/20DRG            |CX  |         1|__________|
+|7896714202976|CLANISTIL 15ML                     |CX  |         0|__________|
+|7896548113479|CLARIL                             |CX  |         8|__________|
+|7896548133613|CLAROFT COLIRIO 15ML               |CX  |         1|__________|
+|7896004725987|CLEANKINOL 40MG\G                  |CX  |         5|__________|
+|7896523201344|CLEAR TOP 30G                      |CX  |         2|__________|
+|0000000099   |CLIMATRIX                          |AMP |         1|__________|
+|7898495601474|CLINARA 100ML                      |CX  |         1|__________|
+|7891721012884|CLINFAR 20MG C/30CPR               |CX  |         1|__________|
+|7896714209852|CLOBETASOL CR 30G NEO              |AMP |        -1|__________|
+|7896112113584|CLOBETASOL CR 30G TEUTO            |CX  |         1|__________|
+|7895296210423|CLOBETASOL POM 30G                 |CX  |         1|__________|
+|7896714207018|CLOBETASOL POM 30G NEO             |BG  |         1|__________|
+|7896004712925|CLONAZEPAM 2,5MG/ML                |FR  |        27|__________|
+|7894916142403|CLONAZEPAM 2,5MG/ML-LEGRAND        |CX  |         8|__________|
+|7894916144674|CLONAZEPAM 2MG C/ 30CPR-LEGRAND    |CX  |        10|__________|
+|7896004721835|CLONAZEPAM 2MG C/20CPR             |CX  |         3|__________|
+|7896422514651|CLONAZEPAM 2MG C/30 CPR            |CX  |        12|__________|
+|7896004721842|CLONAZEPAM 2MG C/30COMP            |CX  |        35|__________|
+|7896422516112|CLOPIDOGREL 75MG C/28CPR           |CX  |         1|__________|
+|7896004738406|CLOPIDOGREL 75MG C/28CPR-EMS       |CX  |        12|__________|
++-------------+-----------------------------------+----+----------+----------+
+                              S G C - 2014
+
+ LEAL FARMA                    
+ Emiss∆o.:27/12/2016  †s  13:51:34                                   PAG Nß011
+ Relatorio Posicao do Estoque
+ Ordem do Relatorio..: Alfabetico
+===============================================================================
+
++-------------+-----------------------------------+----+----------+----------+
+|  Codigo     |            Descricao              | Uni|   Qtd    | Contado  |
++-------------+-----------------------------------+----+----------+----------+
+|7894916145008|CLOPIDOGREL 75MG C/28CPR-LEGRAND   |CX  |         1|__________|
+|7896004738413|CLOPIDOGREL, B 75MG C/28CPR        |CX  |         2|__________|
+|7891317496753|CLOPIDOGREL, B 75MG C/30CPR -EUROF |CX  |         2|__________|
+|7898414851256|CLOTRIMIX 10MG/G                   |BG  |         2|__________|
+|7891317422080|CLOXAZOLAM 2MG C20 CPR EURO        |CX  |         0|__________|
+|7897595615947|CLOXAZOLAN 2MG C/30CPR             |CX  |         0|__________|
+|7898495603805|COBAVIT 100ML                      |FR  |        30|__________|
+|7896255767330|COBAVITAL C/16CPR                  |CX  |         2|__________|
+|7896261008083|CODATEN C/10CPR                    |CX  |         0|__________|
+|7896261006003|CODATEN C/20CPR                    |CX  |         3|__________|
+|7896676400175|CODEIN 30MG C/ 30CPR               |CX  |        -1|__________|
+|7896676400465|CODEIN 60MG C/30CPR                |CX  |         4|__________|
+|7899620911154|COLAGENO 500MG C/60CPR             |FR  |         1|__________|
+|7898994117025|COLETOR UNIVERSAL                  |UNID|        88|__________|
+|7898953484014|COLETOR UNIVERSAL 3B               |UNID|       100|__________|
+|7898953484458|COLETOR UNIVERSAL ATC              |UNID|        38|__________|
+|7897879300347|COLETOR UNIVERSAL DINA             |UNID|        13|__________|
+|7896658025150|COLIKIDS 5ML                       |CX  |         1|__________|
+|7896004810188|COLIRIO LEGRAND 20ML               |CX  |        14|__________|
+|7702031515210|COLONIA BABY JONHSONS H.S. 200ML   |FR  |        -1|__________|
+|7897917000208|COLPADAK 20MGG                     |CX  |         1|__________|
+|7896658003653|COMBIRON 120MG C/45CPR             |CX  |         4|__________|
+|7896658007255|COMBIRON FOLICO SOL 120ML          |FR  |         2|__________|
+|7896658007286|COMBIRON GTS 30ML                  |CX  |         2|__________|
+|7896015523398|COMBODART C/30CPR                  |CX  |         2|__________|
+|7898133137549|COMPLE B C/50CPR                   |CX  |        14|__________|
+|7898133135507|COMPLE B SOL 100ML                 |CX  |        -1|__________|
+|7899620911208|COMPLEXIMED B                      |CX  |        19|__________|
+|7896004714158|COMPLEXO B                         |CX  |         1|__________|
+|7896862990022|COMPLEXO B 100ML                   |CX  |         2|__________|
+|7896004801209|COMPLEXO B 120ML                   |CX  |         8|__________|
+|0000000067   |COMPLEXO B INJ                     |AMP |         5|__________|
+|7896902235861|COMPRESSA DE GAZE FARMAX           |PC  |        20|__________|
+|7898488470209|COMPRESSAS HERIKA C/10             |PC  |         4|__________|
+|7898488470315|COMPRESSAS HERIKA C/10UN           |PC  |        39|__________|
+|7891721024924|CONCOR 1,25MG C/30CPR              |CX  |         2|__________|
+|7891721024986|CONCOR 2,5MG                       |CX  |         1|__________|
+|7891721070785|CONCOR 5                           |CX  |         1|__________|
+|7896512911391|COND GRANADO 250ML                 |CX  |         1|__________|
+|0000000172   |COND JONHSONS 120ML -TODOS         |FR  |         2|__________|
++-------------+-----------------------------------+----+----------+----------+
+                              S G C - 2014
+
+ LEAL FARMA                    
+ Emiss∆o.:27/12/2016  †s  13:51:34                                   PAG Nß012
+ Relatorio Posicao do Estoque
+ Ordem do Relatorio..: Alfabetico
+===============================================================================
+
++-------------+-----------------------------------+----+----------+----------+
+|  Codigo     |            Descricao              | Uni|   Qtd    | Contado  |
++-------------+-----------------------------------+----+----------+----------+
+|7898095296018|CONT COTTON                        |CX  |         4|__________|
+|7891010560737|CONT JOHNSON                       |CX  |         5|__________|
+|7896920301463|CONTROMAX MULHER C/30CPS           |CX  |         3|__________|
+|7896015526252|COREGA CR 19G                      |CX  |         0|__________|
+|7896015519636|COREGA PO 22G                      |FR  |         1|__________|
+|002          |CORISTINA D BL4CPR                 |UNID|         9|__________|
+|7896714200699|CORTICORTEN 20MG C/20CPR           |CX  |        14|__________|
+|7896472502110|CORTITOP 1MG/G 10G                 |BG  |         7|__________|
+|7898414852604|COTRIMIX ESMALTE 7ML               |CX  |         0|__________|
+|7896015520045|CR DEN SENSODYNE BRANQ 90G         |CX  |         6|__________|
+|7896015518684|CR DEN SENSODYNE COOL GEL 90G      |CX  |         4|__________|
+|7896009419324|CR DENT SENSODYNE ORIGINAL 90G     |CX  |         2|__________|
+|7896015528294|CR DENT SENSODYNE RAPIDO ALIVIO 50G|BG  |         3|__________|
+|8000001240069|CREDITO DE 10                      |UNID|       108|__________|
+|8000001269292|CREDITO DE 13                      |UNID|        68|__________|
+|7897947603783|CREME DE ARNICA 60G                |CX  |         6|__________|
+|7891317136468|CREVAGIN 30/20MG/G                 |CX  |         0|__________|
+|0000000055   |CURATIVO BAND-AID                  |UNID|      -128|__________|
+|0000000108   |CURATIVO CICATRISAN                |CX  |        68|__________|
+|0000000169   |CURATIVO CREMER UND                |CX  |        15|__________|
+|018          |CURATIVO CREMER- PROBLEMA          |UNID|        69|__________|
+|7896004801216|CYSTEX C/24DRG                     |CX  |         3|__________|
+|7896920301807|D200 20ML                          |CX  |         1|__________|
+|7894916201353|DAFORIN 20MG/ML                    |CX  |         2|__________|
+|7898557141115|DE VITER 20ML                      |CX  |         4|__________|
+|7896658003516|DECADRON 0,5MG C/20CPR             |CX  |         8|__________|
+|7896658003523|DECADRON 0,75MG C/20CPR            |CX  |         3|__________|
+|7896658003554|DECADRON XR 120ML                  |CX  |         6|__________|
+|7898216360567|DECNAZOL 1000MG C/2CPR             |CX  |         1|__________|
+|7896658001925|DECONGEX GTS 20ML                  |CX  |         3|__________|
+|7896658001918|DECONGEX PLUS 120ML                |CX  |         4|__________|
+|7896472500161|DELTALAB                           |FR  |        10|__________|
+|7896676410471|DENYL 20MG C/28CPR                 |CX  |         1|__________|
+|7898096577031|DEOCIL SL 10MG C/10CPR             |CX  |         2|__________|
+|7891158000942|DEPAKENE 250MG C/25CPR             |CX  |         1|__________|
+|7891158000317|DEPAKENE 300MG C/25CPR             |CX  |         2|__________|
+|7891158000966|DEPAKENE 50MG/ML 100ML             |FR  |        10|__________|
+|7891158000898|DEPAKENE 50OMG C/50CPR             |CX  |         6|__________|
+|7898563800020|DERIKA 100ML (OLEO DE GIRASSOL)    |FR  |         1|__________|
+|7898563800044|DERIVKA 200ML (OLEO DE GIRASSOL)   |CX  |         5|__________|
++-------------+-----------------------------------+----+----------+----------+
+                              S G C - 2014
+
+ LEAL FARMA                    
+ Emiss∆o.:27/12/2016  †s  13:51:34                                   PAG Nß013
+ Relatorio Posicao do Estoque
+ Ordem do Relatorio..: Alfabetico
+===============================================================================
+
++-------------+-----------------------------------+----+----------+----------+
+|  Codigo     |            Descricao              | Uni|   Qtd    | Contado  |
++-------------+-----------------------------------+----+----------+----------+
+|7891058011352|DERMACYD BREEZE                    |CX  |         1|__________|
+|7891058011345|DERMACYD DELICATA                  |CX  |         2|__________|
+|7896004730721|DESLORATADINA 100ML                |CX  |         6|__________|
+|7897879300330|DETECT FAST                        |UNID|        33|__________|
+|7896317900408|DEXADOR C/20CPR                    |CX  |         3|__________|
+|7896317900415|DEXADOR C/3AMP                     |CX  |         4|__________|
+|7896004703565|DEXAMETASONA 0,1MG/ML EMS          |CX  |         1|__________|
+|7896112127666|DEXAMETASONA 100ML -TEUTO          |CX  |        44|__________|
+|7899095232372|DEXAMETASONA 10G -GEOLAB           |CX  |         8|__________|
+|7896112155003|DEXAMETASONA 4MG C10 COMP TEUTO    |CX  |         0|__________|
+|0000000068   |DEXAMETASONA INJ                   |AMP |         4|__________|
+|7896004712147|DEXAMETASONA4MG C/10CP             |CX  |         5|__________|
+|7891317446444|DIACQUA 25MG C/30CPR               |CX  |         1|__________|
+|7896523206868|DIAD                               |CX  |        15|__________|
+|7891106905916|DIANE 35 C/21CPR                   |CX  |         1|__________|
+|7894916147736|DIAZEPAM 10MG C/30CPR              |CX  |        -3|__________|
+|7896714232980|DIAZEPAM 10MG C/30CPR-NEO          |CX  |        24|__________|
+|0000000033   |DICLIN C/21CPR                     |BL  |         9|__________|
+|0000000071   |DICLOF INJ                         |AMP |         5|__________|
+|7898075315685|DICLOFENACO DIETILAMONICO          |CX  |         9|__________|
+|7898158690555|DIFEBRIL 20ML                      |CX  |        46|__________|
+|7896658008023|DIGEPLUS C/30CPS                   |CX  |         6|__________|
+|7896714270180|DIGESPRID 20ML                     |CX  |         1|__________|
+|7896112170297|DIGESTIL 10MG C/20CPR              |CX  |         3|__________|
+|7898049793143|DIMENIDRIN C/20ML                  |FR  |         1|__________|
+|7896523212524|DIMETIGASS GTS                     |CX  |        23|__________|
+|7896004705231|DIMETILIV 15ML                     |CX  |         5|__________|
+|7896261004900|DIOVAN HCT 160/12,5MG C/28CPR      |CX  |         1|__________|
+|7897732650015|DIPIDOR 500MG/ML 10ML              |FR  |       213|__________|
+|006          |DIPIRIN 500MG C/4                  |BL  |        56|__________|
+|0000000136   |DIPIRONA 500MG C/10CPR             |BL  |        53|__________|
+|0000000126   |DIPIRONA BL4 CPR                   |BL  |        49|__________|
+|0000000069   |DIPIRONA INJ                       |AMP |         5|__________|
+|7891317452209|DIUBLOK 50/12,5 C/30CPR            |CX  |        11|__________|
+|7891317452155|DIUBLOK C/30CPR                    |CX  |         2|__________|
+|7899095201224|DIUREMIDA 40MG C/20CPR             |CX  |        22|__________|
+|7896112122432|DIURIX C/30CPR                     |CX  |         7|__________|
+|0000000043   |DOLAMIN CPR                        |CX  |         0|__________|
+|7898040321253|DOLAMIN FLEX C/15CR                |CX  |         0|__________|
+|7894916145114|DOMPERIDONA 10MG C/30CPR - LEGRAND |CX  |         0|__________|
++-------------+-----------------------------------+----+----------+----------+
+                              S G C - 2014
+
+ LEAL FARMA                    
+ Emiss∆o.:27/12/2016  †s  13:51:34                                   PAG Nß014
+ Relatorio Posicao do Estoque
+ Ordem do Relatorio..: Alfabetico
+===============================================================================
+
++-------------+-----------------------------------+----+----------+----------+
+|  Codigo     |            Descricao              | Uni|   Qtd    | Contado  |
++-------------+-----------------------------------+----+----------+----------+
+|7894916145121|DOMPERIDONA 10MG C/60CPR           |CX  |         2|__________|
+|7896004723594|DOMPERIDONA 10MG C/60CPR GERM      |CX  |         1|__________|
+|7891317452995|DOMPERIDONA 10MG EURO              |CX  |         5|__________|
+|7891317483531|DOMPERIX 100ML                     |CX  |         1|__________|
+|7891317418229|DOPO 0,75MG C/2CPR                 |CX  |         3|__________|
+|009          |DORALFLEX C/4                      |BL  |        59|__________|
+|0000000128   |DORALGINA CPRXXXX                  |UNID|      1901|__________|
+|7896888500120|DORDENTE 3ML                       |CX  |         2|__________|
+|7896658015724|DORENE 75MG C/30CPR                |CX  |         2|__________|
+|7898075311144|DORFEBRIL 20ML                     |CX  |         2|__________|
+|7891058002916|DORFLEX CPR                        |UNID|       666|__________|
+|7896004726205|DORICAL KIDS 120ML                 |CX  |         5|__________|
+|7896094910553|DORIL C/6CP                        |CP  |        16|__________|
+|7896094910546|DORIL ENXAQUECA C/4CPR             |BL  |        22|__________|
+|7898495607889|DORILESS 12 CPR                    |CX  |         2|__________|
+|7898158691170|DORILESS 15ML                      |CX  |         5|__________|
+|7896226503622|DORMONID 7,5MG                     |CX  |         1|__________|
+|7896226503288|DORMONID 7,5MG C/20CPR             |CX  |         1|__________|
+|7896472515868|DORSANOL CHA                       |ENV |         9|__________|
+|7896472512324|DORSANOL CPR                       |UNID|       400|__________|
+|7898934966393|DOUTORZ«O 200G                     |FR  |         1|__________|
+|7894916142052|DOXAZOSINA 2MG C/30CPR             |CX  |         6|__________|
+|7891721023507|DOXAZOSINA 4MG C/30CPR MERCK       |CX  |         2|__________|
+|7891317452964|DOXAZOSINA, MESIL 2MG C/30         |CX  |         2|__________|
+|7897595609120|DOXURAN 2MG C/30CPR                |CX  |         0|__________|
+|7896317910230|DPREV 1000UI C/30CP                |CX  |         2|__________|
+|0000000115   |DRAMAVIT CPR                       |CP  |       396|__________|
+|043          |DRAMIN B6 CPR                      |CP  |       713|__________|
+|0000000121   |DRAMIN CPR                         |CX  |       508|__________|
+|7896641806483|DRAMIN GTS 30ML                    |CX  |         4|__________|
+|008          |DRENOGRIP C/6                      |BL  |       105|__________|
+|0000000141   |DROSP+ETINIL 3+0,03MG-NOVAQ        |BL  |        10|__________|
+|0000000109   |DROSP+ETINIL EMS C/21CPR           |CX  |         1|__________|
+|0000000116   |DROSPIRENONA+ETINIL BL15CPR        |BL  |         2|__________|
+|7896004720159|DRYLTAC 70MG                       |CX  |         4|__________|
+|7896676410198|DUOFLAM INJ                        |CX  |         0|__________|
+|7891317455569|DUOMO 2MG C/ 30CPR                 |CX  |         0|__________|
+|7891317485801|DUOMO HP C/30CPS                   |CX  |         1|__________|
+|7896255766333|DUPHASTON 10MG C/28CPR             |CX  |         1|__________|
+|7891317005351|EBASTEL C/10CPR                    |CX  |         1|__________|
++-------------+-----------------------------------+----+----------+----------+
+                              S G C - 2014
+
+ LEAL FARMA                    
+ Emiss∆o.:27/12/2016  †s  13:51:34                                   PAG Nß015
+ Relatorio Posicao do Estoque
+ Ordem do Relatorio..: Alfabetico
+===============================================================================
+
++-------------+-----------------------------------+----+----------+----------+
+|  Codigo     |            Descricao              | Uni|   Qtd    | Contado  |
++-------------+-----------------------------------+----+----------+----------+
+|7896180300275|ECOFILM 5ML                        |CX  |         1|__________|
+|7896920301944|ECOTONICO 400ML                    |CX  |        18|__________|
+|7899026437449|EFFACLAR PEL OLEOSA E SENSIVEL     |CX  |         1|__________|
+|7896094203051|ELANI CICLO BL21                   |BL  |         5|__________|
+|7898216367580|ELPRAZOL 20MG C/56CPR              |CX  |        13|__________|
+|7898216360871|ELPRAZOL C/28CPR                   |CX  |        10|__________|
+|7896004727806|EMS EXPECTOR 120ML                 |CX  |        80|__________|
+|7896004754840|EMS-PRED 3MG/ML 120ML              |CX  |        10|__________|
+|7896004754833|EMS-PRED 3MG/ML 60ML               |CX  |         5|__________|
+|7896015516024|EMULSAO SCOTT LAR 200ML            |CX  |         2|__________|
+|7896015516048|EMULSAO SCOTT MORANGO 200ML        |FR  |         3|__________|
+|7896015516062|EMULS«O SCOTT TRAD                 |FR  |         3|__________|
+|7896004709895|ENALAPRIL, MAL DE +HCT 10/25MG 30CP|CX  |         2|__________|
+|7898216360215|ENAPLEX 10MG C/ 30CPR              |CX  |         5|__________|
+|7893454100012|ENDROSTAN 70MG C/4CPR-NOVO         |CX  |        18|__________|
+|7896004707655|ENERGIL C                          |UNID|         1|__________|
+|041          |ENGOV C/2                          |ENV |        12|__________|
+|7896015521646|ENO ABACAXI C/2                    |ENV |        19|__________|
+|7896015517045|ENO GUARANA 100G                   |FR  |         1|__________|
+|7896015516970|ENO GUARANA C/2                    |ENV |        47|__________|
+|7896015511166|ENO LARANJA C/2                    |ENV |        23|__________|
+|7896015518370|ENO LIMAO 100G                     |FR  |         2|__________|
+|7896015518479|ENO LIMAO C\2 UNI                  |ENV |        39|__________|
+|7896015511159|ENO TRAD C/2UND                    |ENV |        41|__________|
+|7893736010053|ENXAK C/12 CPR                     |CX  |         2|__________|
+|7896641810237|EPAREMA FL                         |FL  |        48|__________|
+|0000000048   |EPOCLER 100ML                      |FL  |        39|__________|
+|7891058030216|EQUILID 50MG                       |CX  |         0|__________|
+|7898157722707|EQUIPO LABOR                       |PC  |        21|__________|
+|7891317476526|ESCITALOPRAM, O. 20MG C/30CPR      |CX  |         3|__________|
+|7898166041677|ESCOPOLAMINA+DIPIRONA              |CX  |         0|__________|
+|0000000097   |ESOP 20CPR                         |CX  |         1|__________|
+|7898060039107|ESPARADRAPO 10X4,5M SOFARMA        |UNID|         1|__________|
+|7891800276534|ESPARADRAPO CREMER 10X4,5M BR      |UNID|         2|__________|
+|7891800364781|ESPARADRAPO CREMER 2,5X90CM BR     |UNID|         6|__________|
+|7891800276527|ESPARADRAPO CREMER 5CMX4,5M BR     |UNID|         9|__________|
+|7891040007325|ESPARADRAPO NEXCARE                |CX  |         3|__________|
+|7896004705644|ESPASMO DIMETILIV 20ML             |CX  |         1|__________|
+|7896004706535|ESPASMO FLATOL 20ML                |CX  |         3|__________|
+|7896004708959|ESPIRONOLACTONA 25MG               |CX  |         7|__________|
++-------------+-----------------------------------+----+----------+----------+
+                              S G C - 2014
+
+ LEAL FARMA                    
+ Emiss∆o.:27/12/2016  †s  13:51:34                                   PAG Nß016
+ Relatorio Posicao do Estoque
+ Ordem do Relatorio..: Alfabetico
+===============================================================================
+
++-------------+-----------------------------------+----+----------+----------+
+|  Codigo     |            Descricao              | Uni|   Qtd    | Contado  |
++-------------+-----------------------------------+----+----------+----------+
+|7896004708942|ESPIRONOLACTONA 25MG C/30CPR EMS   |CX  |         6|__________|
+|7896004711041|ESPIRONOLACTONA 50MG C/30CPR -GER  |CX  |         2|__________|
+|7896202500454|ESTOMANOL 5G ENV                   |ENV |       -31|__________|
+|004          |ESTOMAZIL ABAC                     |UNID|        23|__________|
+|7896714201238|ETILDOPANAN 500MG C/ 20CPR         |CX  |         4|__________|
+|7890282801210|ETNA C/20CPS                       |CX  |         1|__________|
+|0000000133   |EUPEPT CPR                         |CP  |       540|__________|
+|052          |EVANOR C/21                        |CX  |         5|__________|
+|7896658010170|EXODUS 10MG C/30CPR                |CX  |         2|__________|
+|7896004812168|EXPEC 120ML                        |CX  |        82|__________|
+|7898133131110|EXPECTOFLUI 120ML                  |FR  |         4|__________|
+|7898277711087|EXTRATO DE PROPOLIS 20ML           |CX  |         0|__________|
+|7898216360734|FARMOXICAM 20MG C/15 CAPS          |CX  |         2|__________|
+|7899095200135|FELDANAX 20MG C/15CAP              |CX  |        45|__________|
+|7891106905923|FEMIANE C/21DRG                    |CX  |         1|__________|
+|7896658006401|FEMINA C/21CPR                     |CX  |         1|__________|
+|0000000080   |FENAFLEX CPR                       |UNID|       155|__________|
+|7896070600447|FENERGAN 25MG C/20CPR              |CX  |        17|__________|
+|7891058017439|FENERGAN XR 100ML                  |FR  |         3|__________|
+|7898148293995|FENOTEROL, BROMETO DE 5MG/ML 20ML  |FR  |        -1|__________|
+|0000000157   |FERANE 35 BL                       |BL  |         3|__________|
+|7898505090236|FERANE 35 C/21CPR                  |CX  |         0|__________|
+|7896094208537|FILTRUM ULTRA SECO FPS30 60G       |UNID|         1|__________|
+|7896094208544|FILTRUM VIT FPS 50                 |FR  |         2|__________|
+|7896004707532|FINASTERIDA 1MG C/30CPR            |CX  |         3|__________|
+|7894916140348|FINASTERIDA 5MG 30CPR              |CX  |         3|__________|
+|7895296063050|FINASTERIDA 5MG C/15CPR            |CX  |         1|__________|
+|7896202500720|FIXA-CAL C/90CPR                   |CX  |        -1|__________|
+|7897917001311|FLAGIMAX 100MG/G 50G               |CX  |         1|__________|
+|7891106006491|FLANAX 275MG C/20CPR               |CX  |         1|__________|
+|7891106006507|FLANAX 550MG C/10CPR               |CX  |         6|__________|
+|7896637023344|FLANCOX 400MG C/10CPR              |CX  |         3|__________|
+|7897917001007|FLATICONA 10ML                     |CX  |         4|__________|
+|7896714203768|FLAVOID 450/50MG C/30CPR           |CX  |         1|__________|
+|7896658005336|FLOGO-ROSA 500MG                   |CX  |         2|__________|
+|7896714250953|FLOMICIN 200MG C/4ENV              |CX  |         4|__________|
+|0000000139   |FLORAX ADUL FL - NOVO              |FL  |        62|__________|
+|0000000022   |FLORAX FLC 5ML ADUL                |FL  |        25|__________|
+|0000000029   |FLORAX FLC 5ML PED                 |FL  |        41|__________|
+|0000000159   |FLORAX FLC PED - NOVO              |FL  |        25|__________|
++-------------+-----------------------------------+----+----------+----------+
+                              S G C - 2014
+
+ LEAL FARMA                    
+ Emiss∆o.:27/12/2016  †s  13:51:34                                   PAG Nß017
+ Relatorio Posicao do Estoque
+ Ordem do Relatorio..: Alfabetico
+===============================================================================
+
++-------------+-----------------------------------+----+----------+----------+
+|  Codigo     |            Descricao              | Uni|   Qtd    | Contado  |
++-------------+-----------------------------------+----+----------+----------+
+|7898158692221|FLORENT 100 C/12 CAP               |CX  |         0|__________|
+|7898158692238|FLORENT 200 C/4ENV                 |CX  |         1|__________|
+|7896714223674|FLOXETINA, CLOR 20MG C/30CAPS      |CX  |         0|__________|
+|7896714280707|FLOXICAM 20MG                      |CX  |         7|__________|
+|7896862910365|FLOXIMED 40MG C/14CPR              |CX  |         0|__________|
+|7899095200524|FLUCANIL 150MG C/1CAP              |CX  |        -2|__________|
+|7899095200531|FLUCANIL 150MG C/2CAP              |CX  |         2|__________|
+|7897917001359|FLUCOL 150MG C/1 CAP               |CX  |        11|__________|
+|7896523206448|FLUCOMED 150MG C/2 CPR             |CX  |         0|__________|
+|7896862970567|FLUCONAZOL 150MG C/1 CPR           |CX  |         1|__________|
+|7896714219998|FLUCONAZOL 150MG C/1CPR            |CX  |         4|__________|
+|7896862970574|FLUCONAZOL 150MG C/2 CPS           |CX  |         0|__________|
+|7896523208770|FLUCONAZOL C/2 CPR  CIMED          |CX  |         9|__________|
+|7896672201097|FLUIBRON 50ML                      |CX  |         5|__________|
+|7896004700632|FLUOXETINA 20MG C/28CPR(EMS)       |CX  |         6|__________|
+|7898060134529|FLUOXETINA 20MG C/30CPR GLOB       |CX  |         1|__________|
+|7896004711799|FLUOXETINA, CL 20MG C/30CPR GERMED |CX  |         2|__________|
+|7897595601865|FLUOXETINA,CL 20MG C/30 CPR -SAND  |CX  |         6|__________|
+|7896714203515|FLUXON 25MG C/30CPR                |CX  |         3|__________|
+|7898903925697|FOLHA DEPIROLL RESIST C/16         |CX  |         2|__________|
+|0000600      |FORFIG 200MG 20CPS                 |CX  |         1|__________|
+|7896472502394|FORMYN 500MG C/30CPR               |CX  |        -2|__________|
+|7896472502387|FORMYN 850MG C/30CPR               |CX  |        19|__________|
+|7896672201547|FORTEN C/10FR                      |CX  |         2|__________|
+|7896061990069|FRALDA BABYSEC P                   |PC  |         1|__________|
+|7898905111326|FRALDA MEGAFRALD ADUL C/8          |PC  |         1|__________|
+|7590002028506|FRALDA PAMPERS XG C/8              |PC  |        -2|__________|
+|7898162880010|FRALDA SAPEKA M C/8                |PC  |         1|__________|
+|7501007498683|FRALDAS PAMPERS P                  |PC  |        -2|__________|
+|7896920301272|FUNCHIPED 10G                      |CX  |         4|__________|
+|7897655401695|FUNGIROX CR 20G                    |CX  |         4|__________|
+|7897917000192|FUROMIDA 40MG C/20CPR              |CX  |        12|__________|
+|0000000171   |GAMALIVE                           |CX  |         1|__________|
+|7896004713250|GAPAGENTINA 300MG C/30CPS-EMS      |CX  |         5|__________|
+|7896070600669|GARDENAL 100MG C/20CPR             |CX  |         4|__________|
+|7896070601932|GARDENAL 40MG/ML 20ML              |CX  |         0|__________|
+|7896070600881|GARDENAL 50MG C/20CPR              |CX  |         6|__________|
+|7896862960049|GASTROGEL 150ML                    |FR  |        20|__________|
+|7896862910037|GASTROGEL C/20CPR                  |CX  |         3|__________|
+|7896622301884|GASTROL 5G LIMAO                   |CX  |        45|__________|
++-------------+-----------------------------------+----+----------+----------+
+                              S G C - 2014
+
+ LEAL FARMA                    
+ Emiss∆o.:27/12/2016  †s  13:51:34                                   PAG Nß018
+ Relatorio Posicao do Estoque
+ Ordem do Relatorio..: Alfabetico
+===============================================================================
+
++-------------+-----------------------------------+----+----------+----------+
+|  Codigo     |            Descricao              | Uni|   Qtd    | Contado  |
++-------------+-----------------------------------+----+----------+----------+
+|0000000021   |GASTROL CPR                        |CP  |        46|__________|
+|012          |GASTROLIV ENV                      |UNID|        85|__________|
+|7891800197525|GAZE CREMER MAX 5 COMP             |PC  |        40|__________|
+|7898108640050|GAZE SANFARMA ESTERIL              |PC  |        52|__________|
+|650240020506 |GEL ASEPXIA ENXOFRE                |CX  |         1|__________|
+|030          |GEL SANTA CRUZ                     |FR  |        -1|__________|
+|7896094901612|GELOL AERO 44G                     |FR  |         1|__________|
+|7896181900535|GENFIBROZILA 600MG C/30CPR-BIOS    |CX  |        -2|__________|
+|7899095220928|GEOLAB COLIRIO 20ML                |FR  |         0|__________|
+|7898158691743|GERILON C/30CPR                    |CX  |         1|__________|
+|7896920302125|GEROFOR C/60CPS                    |CX  |         3|__________|
+|0000000082   |GEROVITAL BL20CPS                  |BL  |        36|__________|
+|7896004743561|GEROVITAL PHYTOS C/60CPS           |CX  |         1|__________|
+|7897322702070|GINGILONE 10G                      |CX  |         2|__________|
+|7896472503544|GINKOLAB 120MG                     |CX  |         1|__________|
+|7896472501939|GINKOLAB 80MG C/30CPR              |CX  |         6|__________|
+|7891317489595|GINNA CR VAG                       |CX  |         2|__________|
+|7899095203518|GINO-COLON 45G                     |CX  |         2|__________|
+|7896006290629|GLAUB 5ML COLIRIO                  |FR  |         4|__________|
+|7896006290162|GLAUCOTRAT 5ML                     |CX  |         1|__________|
+|7894916141024|GLIBENCLAMIDA 5MG C/30CPR          |CX  |        12|__________|
+|7899095201781|GLICAMIN 5MG C/30CPR               |CX  |         3|__________|
+|7899095201484|GLICEFOR C/30CPR                   |CX  |        74|__________|
+|7898100242948|GLICEL INF C/6                     |CX  |         2|__________|
+|7896004702735|GLICERIN C/6 SUP                   |CX  |         4|__________|
+|7896902211728|GLICERINA BI-DESTILADA 100ML       |CX  |        10|__________|
+|0000000070   |GLICOSE 50% INJ                    |AMP |         5|__________|
+|7891721022579|GLIFAGE 1G C/30CPR                 |CX  |         1|__________|
+|7891721027468|GLIFAGE XR 500MG                   |CX  |         3|__________|
+|7891721027451|GLIFAGE XR 750MG                   |CX  |         3|__________|
+|7896523210940|GLIMEPERIDA 4MG C/30CPR            |CX  |        -3|__________|
+|650240027925 |GOICOECHEA DIABET                  |FR  |         4|__________|
+|7897572000896|GRACIAL 22CPR                      |CX  |         2|__________|
+|7898075310383|GRAVTEST EASY                      |CX  |        -1|__________|
+|7898100243570|GRIPALCE C/4CPR                    |BL  |        25|__________|
+|0000000124   |GRIPENEW C/6CPR                    |CX  |        15|__________|
+|7898158691279|GRIPEOL 100ML                      |FR  |         2|__________|
+|7898495604000|GROW VIT 240ML                     |CX  |         2|__________|
+|7896331705812|GUARAMIL                           |FL  |        12|__________|
+|7896902207745|GUARANA EM PO 50G                  |FR  |         4|__________|
++-------------+-----------------------------------+----+----------+----------+
+                              S G C - 2014
+
+ LEAL FARMA                    
+ Emiss∆o.:27/12/2016  †s  13:51:34                                   PAG Nß019
+ Relatorio Posicao do Estoque
+ Ordem do Relatorio..: Alfabetico
+===============================================================================
+
++-------------+-----------------------------------+----+----------+----------+
+|  Codigo     |            Descricao              | Uni|   Qtd    | Contado  |
++-------------+-----------------------------------+----+----------+----------+
+|7896026300148|GUTTALAX GTS                       |CX  |         8|__________|
+|7896317900811|GYNAX N                            |CX  |         2|__________|
+|7896202500041|HAAR INTERN C/60CPR                |CX  |         4|__________|
+|7896212479054|HALDOL 1MG C/20CPR                 |CX  |         5|__________|
+|7896212420629|HALDOL 2MG/ML                      |FR  |         4|__________|
+|7896212479603|HALDOL 5MG C/20CPR                 |CX  |         2|__________|
+|7896212429295|HALDOL DEC 70,52MG/ML C/5AMP       |CX  |         0|__________|
+|7896004745176|HEDRA EXPEC 100ML                  |CX  |        13|__________|
+|7898133131400|HELMILAB 20MG/ML 30ML              |CX  |         9|__________|
+|7896112128915|HELMIZOL 400MG C/30CPR             |CX  |         1|__________|
+|7896112140528|HELMIZOL C/20CPR                   |CX  |         7|__________|
+|7898495600552|HEMOCORT POM 25G                   |CX  |         2|__________|
+|7898049794355|HEMODASE 25MG                      |CX  |         3|__________|
+|7898216360284|HERVIRAX 200MG C/25CP              |CX  |         7|__________|
+|7898216360291|HERVIRAX 5% 10G                    |CX  |         5|__________|
+|0000000023   |HETOX FL                           |FL  |       131|__________|
+|7896185909084|HIDANTAL 100MG C/25CPR             |CX  |        10|__________|
+|7898133139253|HIDRALYTE 45 AGUA DE COCO          |FR  |         2|__________|
+|7898133139277|HIDRALYTE 45 LARANJA               |FR  |         2|__________|
+|7898133137297|HIDRAPLEX AGUA DE COCO ENV         |ENV |         5|__________|
+|7898133137334|HIDRAPLEX GUARANA ENV              |CX  |         1|__________|
+|7898133137372|HIDRAPLEX LARANJA ENV              |ENV |         8|__________|
+|7898133137310|HIDRAPLEX TRAD ENV                 |CX  |        20|__________|
+|7898133137396|HIDRAPLEX TUTTI-FRUTTI ENV         |ENV |         7|__________|
+|7898133137358|HIDRAPLEX UVA ENV                  |CX  |         5|__________|
+|7891010610203|HIDRAT J&J NUT RENOV BDY LOTION    |FR  |         4|__________|
+|7891010795542|HIDRAT JOHNSONS HORA DO SONO 200ML |FR  |         4|__________|
+|7891010503505|HIDRAT JONHSON 200ML               |FR  |         1|__________|
+|7891010014810|HIDRAT JONHSON LAVA E CAMO 200ML   |FR  |         0|__________|
+|7702031162797|HIDRAT JONHSON MILK 200ML          |FR  |        -2|__________|
+|7891010014803|HIDRAT JONHSONS MAC PRO 200ML      |FR  |         1|__________|
+|7891010610265|HIDRAT NUT PROT BODY LOTION        |FR  |         3|__________|
+|7896112165651|HIDROCLOROTIAZIDA                  |CX  |         3|__________|
+|7896862910648|HIDROFLUX 25MG C/30CPR             |CX  |        56|__________|
+|0057         |HIDROFLUX 25MG C/30CPR-PROBLEMA    |CX  |        11|__________|
+|7898216362639|HIDROLESS 25MG C/30CPR             |CX  |        84|__________|
+|7898216362646|HIDROLESS 50MG C/30CPR             |CX  |         2|__________|
+|7896523207537|HIDROMED 25MG                      |CX  |         5|__________|
+|7894916145602|HIDROQ+TRETINOI+ACET 30G           |CX  |         5|__________|
+|7896004701288|HIDROXIDO DE ALUMINIO 240ML        |CX  |         3|__________|
++-------------+-----------------------------------+----+----------+----------+
+                              S G C - 2014
+
+ LEAL FARMA                    
+ Emiss∆o.:27/12/2016  †s  13:51:34                                   PAG Nß020
+ Relatorio Posicao do Estoque
+ Ordem do Relatorio..: Alfabetico
+===============================================================================
+
++-------------+-----------------------------------+----+----------+----------+
+|  Codigo     |            Descricao              | Uni|   Qtd    | Contado  |
++-------------+-----------------------------------+----+----------+----------+
+|7894916146111|HIDROXIZINA GTS 30CPR              |CX  |         3|__________|
+|7896862990107|HIDROXIZINA XR 100ML -MED          |CX  |         4|__________|
+|7899095235632|HIDROXIZINA,CLORIDRATO 2MG/ML 120ML|FR  |        11|__________|
+|7896004727370|HIGIDERMA 200ML                    |CX  |         1|__________|
+|0000000114   |HIOSPAN COMPOSTO                   |AMP |         5|__________|
+|7896714230429|HIPODERMON 45G                     |CX  |         5|__________|
+|7501001311186|HIPOGLOSS 45G TRADICIONAL          |FR  |         0|__________|
+|7501006712254|HIPOGLOSS AMENDOAS                 |CX  |         1|__________|
+|7501006712261|HIPOGLOSS AMENDOAS 80G             |CX  |         4|__________|
+|7501001311179|HIPOGLOSS TRAD 90G                 |CX  |         1|__________|
+|7897411601505|HIRUDOID GEL                       |CX  |         2|__________|
+|7896714226033|HISTAMIN 10MG/G 30G                |CX  |         1|__________|
+|7896714219301|HISTAMIN 2MG C\20COMP              |CX  |        23|__________|
+|7896714219318|HISTAMIN 2MG/5ML 100ML             |CX  |        15|__________|
+|7896714220659|HISTAMIN EXPECTO 120ML             |CX  |         4|__________|
+|7898907312646|HORA H UNO 1,5MG C/1CPR            |CX  |        22|__________|
+|3662042000058|HYABAK 0,15% 10ML                  |CX  |         1|__________|
+|7899095200425|HYSTIN 2MG C/20CPR                 |CX  |        15|__________|
+|7899095201415|HYSTIN XR 0,4MG/ML 120ML           |FR  |        23|__________|
+|7896006259701|HYTOS PLUS                         |CX  |         2|__________|
+|0000000063   |IBUFLEX 400MG CAPS                 |CX  |        93|__________|
+|7896714211190|IBUFRAN 400MG C/10CPR              |CX  |         4|__________|
+|7896862960087|IBUPROFENO 100MG/ML 20ML           |CX  |         8|__________|
+|7898095343880|IBUPROFENO 100MG/ML NEOQ           |FR  |         1|__________|
+|7896862960070|IBUPROFENO 50MG/ML                 |CX  |        -1|__________|
+|7894916145688|IBUPROFENO GTS 100MG/ML            |CX  |         6|__________|
+|7896112133001|IBUPROFENO GTS TEUTO               |CX  |         1|__________|
+|7896862940157|IBUPROMED GTS                      |CX  |         1|__________|
+|7898133134234|IBUPROTRAT 50ML/ML 30ML            |FR  |       102|__________|
+|7898133134760|IBUPROTRAT INF 100ML               |CX  |         3|__________|
+|7899095244085|IBUVIX 600MG C/20                  |CX  |         2|__________|
+|0000000062   |IBUVIX CPR                         |UNID|       -21|__________|
+|7896112426028|ICTUS 12,5MG C/30CPR               |CX  |        -2|__________|
+|7896112411192|ICTUS 6,25MG                       |CX  |         2|__________|
+|0000000045   |ICTUS CPR                          |CX  |       -10|__________|
+|7898414851966|IMECAP HAIR BL15                   |CX  |        10|__________|
+|7898942110153|IMOBILIZADOR MORMAII               |UNID|         1|__________|
+|7898495609364|IMOLAC                             |AMP |         2|__________|
+|0000000019   |IMOSEC CPR                         |CP  |       718|__________|
+|011LEALFARMA |INALADOR OMRON COMPRESSOR          |UNID|         1|__________|
++-------------+-----------------------------------+----+----------+----------+
+                              S G C - 2014
+
+ LEAL FARMA                    
+ Emiss∆o.:27/12/2016  †s  13:51:34                                   PAG Nß021
+ Relatorio Posicao do Estoque
+ Ordem do Relatorio..: Alfabetico
+===============================================================================
+
++-------------+-----------------------------------+----+----------+----------+
+|  Codigo     |            Descricao              | Uni|   Qtd    | Contado  |
++-------------+-----------------------------------+----+----------+----------+
+|073796801281 |INALADOR ONROM                     |CX  |         0|__________|
+|7896004728834|INDAPAMIDA 1,5MG C/30CPR           |CX  |         1|__________|
+|7896004728827|INDAPAMIDA 1,5MG EMS               |CX  |        -2|__________|
+|7896004728957|INDATRAT SR 1,5MG                  |CX  |         0|__________|
+|7894916501408|INDUX C/10CPR                      |CX  |         1|__________|
+|7896026300476|INFECTRIN 50ML                     |FR  |         4|__________|
+|7896862910242|INFLAMEX 50MG C/20CPR              |CX  |         5|__________|
+|0000000077   |INFRALAX CPR                       |CP  |        50|__________|
+|7897732609105|INGLESA SOBRAL 1,5/30ML 430ML      |CX  |         5|__________|
+|014          |INTESTIN 2MG                       |BL  |        29|__________|
+|7896714214337|IPATROPIO 20ML-NEOQ                |FR  |         2|__________|
+|7896004725437|IPATROPIO, BR 20ML                 |CX  |        -6|__________|
+|7898148299010|IPATROPIO, BROMETO 0,25MG/ML 20ML  |FR  |         0|__________|
+|7896714270234|IPRANEO 0,25MG/ML                  |CX  |         0|__________|
+|7898049792351|IVERMECTINA 6MG C/2CPR             |CX  |         0|__________|
+|0000000088   |K-MED                              |CX  |         3|__________|
+|7896523206790|K-MED GEL 50G                      |CX  |         4|__________|
+|7898133134753|KALONAT 10ML                       |CX  |         1|__________|
+|7896212422562|KALYAMON KIDS 250ML                |CX  |         1|__________|
+|0000000017   |KAOSEC                             |BL  |       341|__________|
+|7897595601391|KEFLAXINA 100ML                    |CX  |         3|__________|
+|7891150044357|KIBON BLAST HERSHEYS 1L            |CX  |         0|__________|
+|7891150026803|KIBON BLAST TABLITO 1L             |FR  |         0|__________|
+|7891075030091|KIBON CHICABON                     |UNID|       -19|__________|
+|7891150030695|KIBON CHOCANT                      |UNID|        30|__________|
+|7891075302051|KIBON CORNETO CHOCO MIX            |UNID|       -16|__________|
+|7891075131606|KIBON CREMOSISSIMO CARIOCA 2L      |CX  |         5|__________|
+|7891150026834|KIBON CREMOSISSIMO FLOCOS 1L       |UNID|         3|__________|
+|7891075131101|KIBON CREMOSISSIMO FLOCOS 2L       |FR  |         6|__________|
+|7891150026827|KIBON CREMOSISSIMO MOR/CRE 1L      |UNID|         4|__________|
+|7891075131019|KIBON CREMOSISSIMO NAPOLITANO 2L   |UNID|         3|__________|
+|7891150049192|KIBON ESKI-BON CHOCOBAR 28G        |CX  |        41|__________|
+|7891150043848|KIBON FRUTA+CALDAS MARACUJA        |CX  |        40|__________|
+|7891150043831|KIBON FRUTAS+CALDAS FRUT VERM      |UNID|        37|__________|
+|7891150048430|KIBON FRUTTARE AGUA DE COCO        |PC  |        27|__________|
+|7891075010161|KIBON FRUTTARE LIMAO               |CX  |       -19|__________|
+|7891150030732|KIBON FRUTTARE MOUSSE DE MARACUJA  |UNID|        -9|__________|
+|7891075403215|KIBON MAGNUM CLASSICO              |UNID|        24|__________|
+|7891150047358|KIBON MAGNUM CR BRULEE             |UNID|        12|__________|
+|7891150047341|KIBON MAGNUM PETIT GATEAU          |UNID|        12|__________|
++-------------+-----------------------------------+----+----------+----------+
+                              S G C - 2014
+
+ LEAL FARMA                    
+ Emiss∆o.:27/12/2016  †s  13:51:34                                   PAG Nß022
+ Relatorio Posicao do Estoque
+ Ordem do Relatorio..: Alfabetico
+===============================================================================
+
++-------------+-----------------------------------+----+----------+----------+
+|  Codigo     |            Descricao              | Uni|   Qtd    | Contado  |
++-------------+-----------------------------------+----+----------+----------+
+|7891075043251|KIBON MAX CHICABONZINHO            |UNID|        55|__________|
+|7891150007680|KIBON MAX FRUTILLY                 |UNID|        55|__________|
+|7891150026742|KIBON PASSAS AO RUM 1,5L           |FR  |         0|__________|
+|7891075060210|KIBON TABLITO                      |UNID|        27|__________|
+|7891317421403|KOIDE 120ML                        |FR  |         5|__________|
+|7891317421434|KOIDE D 120ML                      |CX  |         3|__________|
+|7896676402568|KOLLAGENASE COM CLORANFENICOL  15G |BG  |        -1|__________|
+|7898133136092|KOLLANGEL 150ML HORTELA            |CX  |         2|__________|
+|7898133136085|KOLLANGEL MORANGO 150ML            |CX  |         1|__________|
+|7898216364930|LABCAINA  30G                      |BG  |         1|__________|
+|7896658005107|LABEL 15MG/ML 120ML                |CX  |         1|__________|
+|7896637022903|LABIRIN 16MG C/30CPR               |CX  |         2|__________|
+|7896637023771|LABIRIN 24MG C/30CPR               |CX  |         2|__________|
+|7896180300183|LACRIBELL 15ML                     |FR  |         3|__________|
+|7896006291398|LACRIFILM 10ML                     |FR  |         3|__________|
+|7896006290216|LACRIFILM 15ML                     |FR  |         1|__________|
+|7896548113059|LACRIMA PLUS 15ML                  |CX  |         3|__________|
+|7896094912472|LACTO-PURGA C/3CPR                 |BL  |        60|__________|
+|045          |LACTON 5MG C/4                     |BL  |        12|__________|
+|7898557141054|LACTULIFE 120ML AMEIXA             |CX  |         1|__________|
+|7898557141061|LACTULIFE 120ML SAL DE FRUTAS      |CX  |         1|__________|
+|7896004723341|LACTULIV 120ML                     |CX  |         0|__________|
+|8902220105454|LAMITOR 100MG C/ 30CPR             |CX  |         0|__________|
+|0000000051   |LANCETAS                           |UNID|      -151|__________|
+|7899095200647|LANZOPEPT 30MG C/28CPS             |CX  |         3|__________|
+|005          |LARINGEX ENV                       |BL  |         8|__________|
+|7891058431037|LASIX 40MG C/20 CPR                |CX  |         3|__________|
+|7898133138898|LAXENOL 100ML                      |FR  |         2|__________|
+|78905016     |LEITE MAGNESIA PILLIPS 120ML       |CX  |         8|__________|
+|7896512927606|LENC UM GRANADO LAVANDA            |PC  |         2|__________|
+|7896512927590|LENC UMED GRANADO ERVA-DOCE        |PC  |         1|__________|
+|7896512921369|LENC UMED GRANADO TRAD             |PC  |         2|__________|
+|7891010568764|LENCO UMID JONH H. SONO C/48UN     |AMP |         4|__________|
+|7891010568771|LENCOS JONHSON RN C/48             |PC  |         4|__________|
+|0000000059   |LEVEL C/21CPR                      |BL  |         1|__________|
+|7897595605887|LEVOBIOT 500MG C/7CPR              |CX  |         2|__________|
+|7896226502199|LEXOTAN 3MG C/30CPR                |CX  |         0|__________|
+|7896226502205|LEXOTAN 6MG C/ 30CPR               |CX  |         1|__________|
+|7893353040082|LIDIAL 25G                         |BG  |         2|__________|
+|7898168007039|LIMBITROL C/20CPS                  |CX  |        25|__________|
++-------------+-----------------------------------+----+----------+----------+
+                              S G C - 2014
+
+ LEAL FARMA                    
+ Emiss∆o.:27/12/2016  †s  13:51:34                                   PAG Nß023
+ Relatorio Posicao do Estoque
+ Ordem do Relatorio..: Alfabetico
+===============================================================================
+
++-------------+-----------------------------------+----+----------+----------+
+|  Codigo     |            Descricao              | Uni|   Qtd    | Contado  |
++-------------+-----------------------------------+----+----------+----------+
+|7897322704845|LIPANON 250MG C/15CPR              |CX  |         2|__________|
+|00008        |LIPANON 250MG C/30CPR              |CX  |         3|__________|
+|7897322705415|LIPANON 250MG C/30CPR X            |CX  |         3|__________|
+|7896255767026|LIPIDIL 160MG C/ 30CPR             |CX  |         1|__________|
+|7896004736884|LIPISTATINA 40MG C/30CPR           |CX  |         3|__________|
+|7896714221359|LIPNEO 100MG C/30CPR               |CX  |         1|__________|
+|7898414852062|LIPOMAX PLUS                       |CX  |         1|__________|
+|7897322704494|LISADOR GTS 15ML                   |FR  |         0|__________|
+|7897322702209|LISASOR C/16CPR                    |CX  |         1|__________|
+|7896112110323|LISINOPRIL 10MG C/30CPR TEUTO      |AMP |         3|__________|
+|7895296292047|LISINOPRIL 20MG C/30CPR            |CX  |         1|__________|
+|7896676411362|LISINOPRIL 20MG C/30CPR-CRISTALINA |CX  |         0|__________|
+|7897917001502|LISODERME 10G                      |CX  |         3|__________|
+|7896637022408|LITOCIT 5MEQ C/60CPR               |CX  |         2|__________|
+|7896862940065|LIVGAS 75MG/ML 15ML                |FR  |        33|__________|
+|7896512910325|LOC GRANADO BEBE 100ML             |FR  |         1|__________|
+|7891010579265|LOCAO HID JONHSON RN               |UNID|        -2|__________|
+|7898495609203|LONGIVIT 240ML                     |CX  |         3|__________|
+|7899095202061|LORATADINA 1MG/ML 100ML            |FR  |         0|__________|
+|7896714223186|LORATADINA+PSEUDOEFEDRINA 60ML NEOQ|CX  |         3|__________|
+|7896523202822|LORATAMED 12CPR                    |CX  |         1|__________|
+|7896523202204|LORATAMED XR 100ML                 |FR  |         4|__________|
+|7896422507257|LORAZEPAM 2MG C/20CPR              |CX  |         7|__________|
+|7894916140867|LORAZEPAM 2MG C/20CPR LEGRAND      |CX  |         2|__________|
+|7899095200098|LORITIL 10MG C/12CPR               |CX  |         4|__________|
+|7899095201903|LORITIL 1MG/ML 100ML               |FR  |         0|__________|
+|7898049796243|LOSACORON 50MG                     |CX  |         2|__________|
+|7896112114185|LOSARTANA 50MG C/30CPR TEUTO       |CX  |         5|__________|
+|7891317445287|LOSARTANA K +HCT 50/12,5MG C/30CPR |CX  |         0|__________|
+|7891317427542|LOSARTANA K+ 50MG C/30CPR-EURO     |CX  |         6|__________|
+|7899095236639|LOSARTANA POTASSICA                |CX  |       179|__________|
+|7896714208763|LOSARTANA POTASSICA 100MG C/30CPR  |CX  |         1|__________|
+|7894916145145|LOSARTANA POTASSICA 50MG C/30CPR   |CX  |         5|__________|
+|7896714208565|LOSARTANA POTASSICA 50MG-NEOQ      |CX  |         4|__________|
+|7894916143042|LOSARTANA+HCT 50/12,5MG C/30CPR    |CX  |        10|__________|
+|7897411610958|LOXONIN 60MG C/30CPR               |CX  |         2|__________|
+|7896472503537|LOZEPREL 20MG BL7 NOVO             |BL  |       118|__________|
+|7896472502257|LOZEPREL 20MG C/14CAP              |CX  |        12|__________|
+|7896472502264|LOZEPREL 20MG C/28CAP              |CX  |         6|__________|
+|022          |LOZEPREL 20MG CPR                  |CP  |         4|__________|
++-------------+-----------------------------------+----+----------+----------+
+                              S G C - 2014
+
+ LEAL FARMA                    
+ Emiss∆o.:27/12/2016  †s  13:51:34                                   PAG Nß024
+ Relatorio Posicao do Estoque
+ Ordem do Relatorio..: Alfabetico
+===============================================================================
+
++-------------+-----------------------------------+----+----------+----------+
+|  Codigo     |            Descricao              | Uni|   Qtd    | Contado  |
++-------------+-----------------------------------+----+----------+----------+
+|7896016801501|LUFTAL C/20CPR                     |CX  |        -3|__________|
+|7896016804915|LUFTAL GTS 15ML                    |CX  |        19|__________|
+|0000000032   |LUVAS PAR                          |PC  |       152|__________|
+|7899470802275|MAGMAX HORT 80MG\ML 100ML          |FR  |         0|__________|
+|7899470802268|MAGMAX TRAD 80MG/ML 100ML          |FR  |        23|__________|
+|7896226102955|MAGNEN B6 C/30CPR                  |CX  |         1|__________|
+|7894916503747|MALENA HCT 20/12,5 C/30CPR         |CX  |        10|__________|
+|7896000614223|MAMADEIRA KUKA                     |UNID|         1|__________|
+|7897512900811|MANT DE CACAU ZINZIN               |CX  |        44|__________|
+|7897185036176|MANT. DE CACAU DINA BATOM          |UNID|        11|__________|
+|7898277712183|MANT. DE CACAU LABICAU 3,3G        |UNID|        18|__________|
+|7897185036152|MANT. DE CACAU LIQ DINA            |UNID|         9|__________|
+|7891104195340|MARACUGINA COMPOSTA                |FR  |        -1|__________|
+|7896004704531|MARACUJA CONCENTRIX 100ML          |CX  |         0|__________|
+|7898040320928|MAREVAN 5MG C/30CPR                |CX  |         1|__________|
+|046          |MASCARA                            |UNID|       228|__________|
+|038          |MASCARA SKY UN                     |UNID|        72|__________|
+|7898133130229|MASFEROL 100ML                     |CX  |         9|__________|
+|7899470801322|MASFEROL C/40COMP                  |CX  |         1|__________|
+|7896714273006|MASSAGEOL AERO                     |FR  |         4|__________|
+|7896714230054|MASSAGEOL POM 15G                  |CX  |        12|__________|
+|7896714230504|MASSAGEOL POM 30G                  |FR  |         1|__________|
+|7896965400169|MATHERLLY GEST C/30CPR             |CX  |         3|__________|
+|7898133130403|MAXALGINA GTS 500MG/ML 10ML        |FR  |       103|__________|
+|7898133131028|MAXALGINA INF 100ML                |CX  |         9|__________|
+|7898133138751|MAXALGINA INF 50MG/ML 100ML        |CX  |         2|__________|
+|7896548111727|MAXIDEX 1MG/ML                     |CX  |         0|__________|
+|7896180300244|MAXILERG 5ML                       |FR  |         2|__________|
+|7898430190988|MAXXI D3                           |CX  |         1|__________|
+|7896637023115|MECLIN 25MG                        |CX  |         4|__________|
+|7896862960209|MEDTRIM 200+40/5ML 100ML           |CX  |         0|__________|
+|054          |MEL COMPOSTO                       |FR  |         0|__________|
+|028          |MELHORAL CPR                       |CP  |       185|__________|
+|7894916140706|MELOXICAM 15MG C/10CPR             |CX  |         9|__________|
+|7891721238086|MELOXICAM 15MG C/10CPR - MERCY     |CX  |        12|__________|
+|7898912189059|MELOXICAM 15MG C/10CPR UNIC        |CX  |         1|__________|
+|7891317424565|MELOXICAM INJ AMP                  |AMP |         4|__________|
+|7896004702360|MELOXIGRAN 15MG C/10CPR            |CX  |         6|__________|
+|7899095201552|MENBEL 100MG C/6CPR                |CX  |        13|__________|
+|7896472502820|MENOCOL 20MG C/30CPE               |CX  |        13|__________|
++-------------+-----------------------------------+----+----------+----------+
+                              S G C - 2014
+
+ LEAL FARMA                    
+ Emiss∆o.:27/12/2016  †s  13:51:34                                   PAG Nß025
+ Relatorio Posicao do Estoque
+ Ordem do Relatorio..: Alfabetico
+===============================================================================
+
++-------------+-----------------------------------+----+----------+----------+
+|  Codigo     |            Descricao              | Uni|   Qtd    | Contado  |
++-------------+-----------------------------------+----+----------+----------+
+|7896472502936|MENOCOL 40MG C/30CPR               |CX  |        11|__________|
+|7898505091370|MENOPRIN C/28CPR                   |CX  |         3|__________|
+|7894913000904|MERTHIOCORT 30ML                   |CX  |         0|__________|
+|7898168005592|MESTINON 60MG C/60MG               |CX  |         6|__________|
+|7896523206493|METFORMED 850MG C/30CPR            |CX  |        12|__________|
+|7891721027406|METFORMINA, CL 850MG C/30CPR       |CX  |         6|__________|
+|7894913000911|METHIOCORT SPRAY 45ML              |CX  |         1|__________|
+|7896112144816|METOCLOPRAMIDA TEUTO               |CX  |         2|__________|
+|7898148294381|METRONIDAZOL 250MG C/10CPR         |CX  |         3|__________|
+|7899095202306|METRONIDAZOL CR VAG GEOLAB         |CX  |        10|__________|
+|7896004702049|METRONIDAZOL SUSP 120ML -EMS       |CX  |        24|__________|
+|7896112122975|METRONIDAZOL SUSP TEUTO            |CX  |         1|__________|
+|7899095232532|METRONIDAZOL+NISTATINA 50G         |CX  |         3|__________|
+|7896112179344|MEVAMOX 7,5MG C/10CPR              |CX  |         2|__________|
+|7896714223834|MICONAZOL 28G NEOQ                 |CX  |        -1|__________|
+|7898148295340|MICONAZOL CR 20MG/G 28G            |CX  |         1|__________|
+|7899095202108|MICONAZOL, N 20MG/G 28G            |CX  |        12|__________|
+|7899095202115|MICONAZOL,NITRATO DE 80G           |CX  |         1|__________|
+|7896472502158|MICOSTALAB 50ML                    |FR  |         3|__________|
+|7896472516377|MICOSTALAB 60G                     |CX  |         3|__________|
+|7896212478859|MICRONOR C/35CPR                   |CX  |         6|__________|
+|7891106905961|MICROVLAR C/21DRG                  |CX  |         4|__________|
+|7891142130822|MILGAMMA 150MG C/30CPR             |CX  |         3|__________|
+|78905108     |MINANCORA 30G                      |UNID|        -1|__________|
+|7891150036529|MINI BLAST CHOC BITS               |UNID|         3|__________|
+|7891150036734|MINI BLAST ROEMU E JULIETA         |UNID|         1|__________|
+|7897322701998|MIOFLEX A C/12CPR                  |CX  |        11|__________|
+|7897322701622|MIOFLEX C/16CPR                    |CX  |         0|__________|
+|0000000090   |MIORRELAX CPR                      |UNID|       160|__________|
+|7896637023665|MIOSAN 10MG C/10CPR                |BL  |         4|__________|
+|7896637023658|MIOSAN 5MG C/10CPR                 |CX  |         1|__________|
+|7896637025102|MIOSAN CAF C/15CPR                 |CX  |         4|__________|
+|7897851250561|MONOCORDIL 20MG C/30CPR            |CX  |         4|__________|
+|7896212429738|MOTILIUM 10MG C/30CPR              |CX  |         4|__________|
+|7891058020316|MOURA BRASIL COLIRIO               |FR  |         4|__________|
+|7899640804245|MUD 10G                            |CX  |         3|__________|
+|7891317427320|MUD CREME 10G                      |CX  |         0|__________|
+|7891317427337|MUD POM 10G                        |CX  |         0|__________|
+|7896472504220|MULTIGRIP C/10CPR                  |BL  |         4|__________|
+|7896472504213|MULTIGRIP C/4CAP                   |BL  |       351|__________|
++-------------+-----------------------------------+----+----------+----------+
+                              S G C - 2014
+
+ LEAL FARMA                    
+ Emiss∆o.:27/12/2016  †s  13:51:34                                   PAG Nß026
+ Relatorio Posicao do Estoque
+ Ordem do Relatorio..: Alfabetico
+===============================================================================
+
++-------------+-----------------------------------+----+----------+----------+
+|  Codigo     |            Descricao              | Uni|   Qtd    | Contado  |
++-------------+-----------------------------------+----+----------+----------+
+|7896016805608|NALDECON C/24CPR                   |CX  |         3|__________|
+|7896094206380|NAPRIX 10MG C/30CPR                |CX  |         3|__________|
+|7896714218700|NAPRONAX 550MG C/10CPR             |CX  |         3|__________|
+|7896714214405|NAPROXENO C/10CPR                  |CX  |        22|__________|
+|7898495602808|NASOFLUID 0,5MG/ML 30ML            |FR  |         7|__________|
+|7898133135248|NASOJET 50ML                       |CX  |        10|__________|
+|7898926572113|NASONEX 120ATM                     |CX  |         0|__________|
+|7898926572090|NASONEX 60ATM                      |CX  |         0|__________|
+|7896920301760|NATURAX KIDS                       |CX  |         3|__________|
+|7896006200987|NAXOTEC 500MG C/24                 |CX  |         5|__________|
+|00003        |NEBACIDERME 10G PROBLEMA           |BG  |        14|__________|
+|7896472502103|NEBACIDERME 10MG                   |CX  |         8|__________|
+|7896112412175|NEBILET 5MG C/14CPR                |CX  |         7|__________|
+|0000000149   |NECTAR AO LEITE                    |AMP |        89|__________|
+|0000000154   |NECTAR COPAO                       |UNID|        13|__________|
+|0000000153   |NECTAR COPO                        |UNID|        22|__________|
+|0000000150   |NECTAR ESPECIAL                    |UNID|        49|__________|
+|0000000148   |NECTAR FRUTAS                      |UNID|        46|__________|
+|0000000147   |NECTAR KIDS                        |UNID|        41|__________|
+|0000000152   |NECTAR MINI SANDAE 120ML           |UNID|        74|__________|
+|0000000155   |NECTAR POTE 1L                     |UNID|         3|__________|
+|0000000156   |NECTAR POTE 2L                     |UNID|        10|__________|
+|0000000151   |NECTAR TRUFA                       |UNID|        25|__________|
+|7896641802850|NENEM DENTIM  GEL                  |BG  |         1|__________|
+|7896714224459|NEO BRASIL COLIRIO 20ML            |CX  |         2|__________|
+|7896714200125|NEO FEDIPINA 20MG                  |CX  |         5|__________|
+|7896714201108|NEO FOLICO 5MG C/20CPR             |CX  |         2|__________|
+|7896714224053|NEO FRESH 15ML                     |CX  |         2|__________|
+|7896714221083|NEOCOFLAN AER 85ML                 |FR  |         7|__________|
+|7896714227290|NEOCOFLAN GEL 30G                  |CX  |         2|__________|
+|7896714230030|NEOCOFLAN GEL 60G                  |CX  |         4|__________|
+|7896714230207|NEODEX N CR 15G                    |CX  |         2|__________|
+|7896714213446|NEODIA 1,5MG C/1CPR                |CX  |       120|__________|
+|7896714214573|NEOLEFRIN ADU 60ML                 |FR  |         7|__________|
+|7896714203898|NEOLEFRIN BABY 15ML                |FR  |         9|__________|
+|0000000104   |NEOLEFRIN C/4CPR                   |CX  |        41|__________|
+|7896714224510|NEOPANTOL 50MG/G                   |CX  |         3|__________|
+|7896714218205|NEOPRAZOL 20MG C/28CPS             |CX  |        11|__________|
+|7896714203393|NEOPRESS H 50/12,5MG C/30CPR       |CX  |        13|__________|
+|7896641804663|NEOSALDINA 15ML                    |CX  |         1|__________|
++-------------+-----------------------------------+----+----------+----------+
+                              S G C - 2014
+
+ LEAL FARMA                    
+ Emiss∆o.:27/12/2016  †s  13:51:34                                   PAG Nß027
+ Relatorio Posicao do Estoque
+ Ordem do Relatorio..: Alfabetico
+===============================================================================
+
++-------------+-----------------------------------+----+----------+----------+
+|  Codigo     |            Descricao              | Uni|   Qtd    | Contado  |
++-------------+-----------------------------------+----+----------+----------+
+|0000000060   |NEOSALDINA BL10CPR                 |CX  |         8|__________|
+|7896641803871|NEOSALDINA C/20DGR                 |CX  |         6|__________|
+|7896641810244|NEOSALDINA C/4 CPR                 |BL  |        94|__________|
+|013          |NEOSALDINA CPR                     |CP  |      -135|__________|
+|026          |NEOSALDOR C/4                      |BL  |        10|__________|
+|7896714242866|NEOSARTAN 160MG                    |CX  |         6|__________|
+|7896714200255|NEOSEMID 40MG C/20CPR              |CX  |         1|__________|
+|7896714231143|NEOSORO 30ML                       |CX  |       181|__________|
+|7896714230023|NEOSORO INF 30ML                   |CX  |         5|__________|
+|7896714200361|NEOSULIDA 100MG C/12CPR            |CX  |        17|__________|
+|7896714210025|NEOTAFLAN 50MG C/20CPR             |CX  |         4|__________|
+|7896714236247|NEOTOSS  PED 60ML                  |CX  |         7|__________|
+|7896714236223|NEOTOSS ADU 100ML                  |CX  |         4|__________|
+|7891106905992|NEOVLAR C/21                       |CX  |         3|__________|
+|7896070601574|NEOZINE 100MG                      |CX  |         1|__________|
+|7896070601062|NEOZINE 25MG C/ 20CPR              |CX  |         4|__________|
+|7896070601055|NEOZINE 4% 20ML                    |FR  |         2|__________|
+|0000000179   |NERVIX CPR                         |CX  |         0|__________|
+|7896677701615|NERVOCALM 250MG C/60CPR            |CX  |         2|__________|
+|7896920300916|NEUROTABS 240ML                    |CX  |         1|__________|
+|7896920300879|NEUROTABS C/30CPS                  |CX  |         3|__________|
+|7896920300893|NEUROTABS COMBO                    |CX  |         2|__________|
+|7894916500333|NEUTROFER 300MG C/30CPR            |CX  |         1|__________|
+|7894916500296|NEUTROFER 30ML                     |CX  |         4|__________|
+|7896920300671|NEUTROFER 480ML                    |CX  |         5|__________|
+|0000000039   |NEUTROFER GTS                      |FR  |         0|__________|
+|7896862910747|NIFEDIPRESS 20MG C/30CPR           |CX  |         5|__________|
+|7898049797301|NIMELIT 100MG C/12CPR              |CX  |         1|__________|
+|7894916141277|NIST+OXIDO DE ZINCO 60G-LEGRAND    |CX  |         6|__________|
+|7899095202146|NISTATINA CR VAG 60G               |CX  |         6|__________|
+|7896658005084|NISULID 100MG C/12CPR DISP         |CX  |         2|__________|
+|7896004714196|NOCICLIN                           |CX  |         4|__________|
+|7891317460532|NOEX 32MCG                         |CX  |         4|__________|
+|7891317460518|NOEX 50MCG/DOSE                    |CX  |         0|__________|
+|7896070603271|NOOTROPIL 800MG                    |CX  |         1|__________|
+|7898505090304|NOREGYNA INJ                       |CX  |         1|__________|
+|7896241274903|NORESTIN C/35CPR                   |CX  |        11|__________|
+|7896472505586|NORFLOXACINO 400MG C/14CPR         |CX  |         1|__________|
+|7896641805479|NORIPURUM GTS 30ML                 |CX  |         1|__________|
+|7891317430146|NORTRIPTILINA 25MG C/30CPR         |CX  |         2|__________|
++-------------+-----------------------------------+----+----------+----------+
+                              S G C - 2014
+
+ LEAL FARMA                    
+ Emiss∆o.:27/12/2016  †s  13:51:34                                   PAG Nß028
+ Relatorio Posicao do Estoque
+ Ordem do Relatorio..: Alfabetico
+===============================================================================
+
++-------------+-----------------------------------+----+----------+----------+
+|  Codigo     |            Descricao              | Uni|   Qtd    | Contado  |
++-------------+-----------------------------------+----+----------+----------+
+|7896658000560|NOVACORT CR 30G                    |BG  |        15|__________|
+|7896658000577|NOVACORT POM 30G                   |BG  |         5|__________|
+|7891058464073|NOVALGINA XR 50MG/ML               |CX  |         0|__________|
+|7896112422136|NOVANLO 2,5MG C/30CPR              |CX  |         2|__________|
+|7893353040129|NOVO RINO 0,5MG/ML 15ML            |FR  |         5|__________|
+|7896658003806|NOVOFER 126MG C/45CPR              |CX  |         1|__________|
+|7899620910485|NOVOPRAZOL 20MG C/56CPR            |CX  |        38|__________|
+|7898956544555|NUTRIFAN FE 30ML                   |CX  |         1|__________|
+|7898956544081|NUTRINFAN INF 120ML                |CX  |         3|__________|
+|7898937022010|NUTRIVIT JUNIRO 120ML              |CX  |        -5|__________|
+|7896006290209|OCUPRESS 5ML                       |CX  |         0|__________|
+|7896472516896|OCYLIN 500MG C/15CPS               |CX  |         7|__________|
+|7896472502080|OCYLIN 500MG C/21CAP               |CX  |        11|__________|
+|7896472502059|OCYLIN C/10CPR                     |CX  |        29|__________|
+|023          |OCYLIN CPR                         |CP  |       -43|__________|
+|7891317484330|OLANZAPINA 5MG C/30CPR-EURO        |CX  |         0|__________|
+|7896261011601|OLDACIL 2MG C/30CPR                |CX  |         0|__________|
+|7899620910966|OLEO CARTAMO+VIT E C/60CPS         |FR  |         2|__________|
+|7891010878016|OLEO DE AMENDOAS JONHSON'S         |FR  |        -2|__________|
+|7899620910942|OLEO DE CARTAMO+CHIA C/60MG        |FR  |         0|__________|
+|7899620910973|OLEO DE CHIA VIVA C/60CPR          |FR  |         3|__________|
+|7896902211247|OLEO DE GIRASSOL 100ML FARMAX      |CX  |         0|__________|
+|7898934966454|OLEO DE GIRASSOL 200ML             |CX  |         3|__________|
+|0000000091   |OLEO DE GIRASSOL AGE               |FR  |         6|__________|
+|7896902211421|OLEO DE GIRASSOL FARMAX 100ML      |FR  |         2|__________|
+|7898934966478|OLEO DE GIRASSOLL MOPH             |CX  |         1|__________|
+|7896902211933|OLEO DE RICINO 30ML                |CX  |        11|__________|
+|7896902206557|OLEO DE RICINO FARMAX 30ML         |FR  |         1|__________|
+|7891010581800|OLEO JONHSONS RN                   |FR  |         4|__________|
+|7898937022997|OMEGA 3 1G C/50 NATURELIFE         |FR  |         2|__________|
+|7899620911185|OMEGA 3 1G C/60CPS GLOBO           |FR  |         4|__________|
+|7899732000111|OMEGA 3 C/60CPS NUTREFLORA         |CX  |         0|__________|
+|7896920301425|OMEGA 3 ECOFITUS                   |FR  |         5|__________|
+|7897947606913|OMEGA 3 LAVITAN C/60 CPS           |FR  |         1|__________|
+|7898557144291|OMEGA 3 LIFE L120P90               |FR  |         7|__________|
+|7899732100125|OMEGA 3 NANOLIBBS C/60             |FR  |         3|__________|
+|7898926212477|OMEGA 3 ORANGE C/180CPS            |CX  |         0|__________|
+|7898956544012|OMEGA A-Z C/30CPS                  |CX  |         1|__________|
+|7894913001628|OMEGA A-Z KRESS                    |CX  |         3|__________|
+|7894913001604|OMEGATIVE 60CPS                    |CX  |        -5|__________|
++-------------+-----------------------------------+----+----------+----------+
+                              S G C - 2014
+
+ LEAL FARMA                    
+ Emiss∆o.:27/12/2016  †s  13:51:34                                   PAG Nß029
+ Relatorio Posicao do Estoque
+ Ordem do Relatorio..: Alfabetico
+===============================================================================
+
++-------------+-----------------------------------+----+----------+----------+
+|  Codigo     |            Descricao              | Uni|   Qtd    | Contado  |
++-------------+-----------------------------------+----+----------+----------+
+|7899095240162|OMENAX 20MG C/56CPS                |CX  |         4|__________|
+|7899095200869|OMENAX C/28CPR                     |CX  |        69|__________|
+|0000000117   |OMENAX CPR                         |CP  |       -42|__________|
+|00AA         |OMOPREL 40MG C/28CPR               |CX  |        13|__________|
+|7897917003285|OMOPREL 40MG C/56CPR               |AMP |         6|__________|
+|7897917003278|OMOPREL C/28CPR                    |CX  |         8|__________|
+|7896004722689|ONCILEG A 10G                      |CX  |        12|__________|
+|7896523221915|ONETEST                            |CX  |         2|__________|
+|7891058011550|OSCAL D+400 C/60CPR                |CX  |         1|__________|
+|7893454212012|OSSOTRAT-D C/60CPR                 |CX  |         6|__________|
+|7898133133770|OSTEOFIX D C/60CPR (600+200)       |CX  |         4|__________|
+|7896637022439|OTO-XILODASE 8ML                   |CX  |         6|__________|
+|7896004707600|OTOMIXYN 5ML                       |CX  |         3|__________|
+|7899095204720|OTOSYLASE 10ML                     |FR  |         1|__________|
+|7896714270661|OUVIDONAL 10ML                     |CX  |         1|__________|
+|7897572000292|OVESTRION                          |CX  |        -1|__________|
+|7897572000803|OVESTRION 1MG C/30CPR              |CX  |         1|__________|
+|7897572000810|OVESTRION 2MG C/30CPR              |CX  |         0|__________|
+|7898158693228|OXYDERME 60G                       |CX  |         6|__________|
+|7891317455606|PACO C/12 CPR -CERTO               |CX  |         1|__________|
+|7891317464905|PACO C/24 CPR                      |CX  |        18|__________|
+|0000000093   |PAMELOR                            |CX  |         1|__________|
+|7896261009660|PAMELOR 10MG C/30CPR               |CX  |         1|__________|
+|7896261009677|PAMELOR 25MG C/30CPR               |CX  |         5|__________|
+|7896212468898|PANTELMIN 30ML                     |CX  |         1|__________|
+|7895296199032|PANTOPRAZOL 20MG C/14CPR           |CX  |         1|__________|
+|7896004708492|PANTOPRAZOL 20MG C/28CPR           |CX  |         2|__________|
+|7896181918691|PANTOPRAZOL 40MC C/28CPR           |CX  |        -2|__________|
+|7898216361861|PANTOPRAZOL 40MG C/14CPR           |CX  |         1|__________|
+|7894916140393|PANTOPRAZOL 40MG C/28CPR-LEGRAND   |CX  |        59|__________|
+|7897595606297|PANTOPRAZOL 40MG C/28CPR-SANDOZ    |CX  |         3|__________|
+|7894916148634|PANTOPRAZOL 40MG CX6BL7CP          |CX  |         5|__________|
+|7891317120863|PANTOPRAZOL 40MG-EURO              |CX  |         5|__________|
+|7896472512331|PARACETAMOL 750MG C/10CPR          |BL  |        25|__________|
+|7896004716299|PARACETAMOL BEBE 100MG/ML 15ML     |CX  |         4|__________|
+|7891317448950|PARACETAMOL+CODEINA C/12CP         |CX  |         6|__________|
+|7898216369591|PAROXETINA 20MG C/30CPR            |CX  |         9|__________|
+|7896226102818|PASALIX C/20CPR                    |CX  |         1|__________|
+|7897917000017|PASTA D'AGUA 80G                   |CX  |        -1|__________|
+|7896902203549|PASTA D'AGUA FARMAX                |UNID|         1|__________|
++-------------+-----------------------------------+----+----------+----------+
+                              S G C - 2014
+
+ LEAL FARMA                    
+ Emiss∆o.:27/12/2016  †s  13:51:34                                   PAG Nß030
+ Relatorio Posicao do Estoque
+ Ordem do Relatorio..: Alfabetico
+===============================================================================
+
++-------------+-----------------------------------+----+----------+----------+
+|  Codigo     |            Descricao              | Uni|   Qtd    | Contado  |
++-------------+-----------------------------------+----+----------+----------+
+|7897917002721|PASTA D'AGUA MENTOLADA 80G         |CX  |         6|__________|
+|7899470805740|PASTA D'AGUA NATULAB 80G           |CX  |         4|__________|
+|7898031310730|PEDRA HUME 30G                     |CX  |         3|__________|
+|7896331703191|PEITORAL 150ML                     |CX  |         6|__________|
+|7898049790098|PEPTOVIT 40MG C\14                 |CX  |         3|__________|
+|7891317411909|PERCOF XR 120ML                    |CX  |         2|__________|
+|7795304085275|PERLUTAN 1AMP                      |CX  |         5|__________|
+|7897337713382|PEROLA C/28CPR                     |CX  |         1|__________|
+|7898100240432|PETIVIT BC PED 240ML               |FR  |        71|__________|
+|7898100243112|PHITOSS 100ML                      |CX  |        12|__________|
+|7896676416879|PINAZAN 25MG C/30CPR               |CX  |         2|__________|
+|7898075315814|PIROXICAM 20MG C/15CPR             |CX  |         2|__________|
+|7897917000970|PLABEL 4MG/ML 10ML                 |CX  |         3|__________|
+|7896112142140|PLAGEX 10ML                        |CX  |         2|__________|
+|0000000181   |PLANTACIL 5MG                      |ENV |        60|__________|
+|7897322714301|PLANTACIL C/30CPR                  |CX  |         1|__________|
+|0000000078   |PLANTARE ENV                       |CX  |        36|__________|
+|7896004738390|PLAQUEVIX 75MG C/28CPR             |CX  |         2|__________|
+|7891058059149|PLASIL 10MG  C/20CPR               |CX  |         3|__________|
+|7891058059019|PLASIL 10ML                        |CX  |         1|__________|
+|7896094201545|PLURAIR 120DS 12ML                 |CX  |         3|__________|
+|7896094201507|PLURAIR 60DS 6ML                   |FR  |         3|__________|
+|7891142171061|POLARAMINE 2,8MG/ML GTS            |FR  |         3|__________|
+|7891142171719|POLARAMINE 2MG C/ 20CPR            |CX  |         3|__________|
+|7898158690425|POLAREN C/20CPR                    |CX  |         5|__________|
+|7897917000543|POMICINA 5MG/G 20G                 |BG  |         6|__________|
+|7891317006938|PONDERA 20MG C/30CPR               |CX  |         1|__________|
+|7891268118001|PONSTAN 500MG C/24CPR              |CX  |         4|__________|
+|0000000042   |PONSTAN CPR                        |CP  |       -27|__________|
+|7891142137135|PRATIUM 15ML                       |CX  |         3|__________|
+|0000000007   |PREDCORT 20MG 1/2                  |CX  |        -2|__________|
+|7898049794096|PREDCORT 20MG C/20CPR              |CX  |         4|__________|
+|7898049798001|PREDCORT 5MG C/20CPR               |CX  |         1|__________|
+|7894916146852|PREDNISOLONA 20MG C/30CPR-LEGRAND  |CX  |         6|__________|
+|7898148296477|PREDNISOLONA, FOSF 3MG\ML 100ML    |CX  |        -1|__________|
+|7895296286022|PREDNISONA 20MG C/20CPR            |CX  |         4|__________|
+|7899095235083|PREDOPTIC 5ML                      |FR  |         3|__________|
+|7895296282017|PREDSIGMA 20MG C/10CPR             |CX  |         1|__________|
+|7891142177056|PREDSIM 20MG C/10CPR               |CX  |         1|__________|
+|7891142177162|PREDSIM 60ML                       |CX  |         3|__________|
++-------------+-----------------------------------+----+----------+----------+
+                              S G C - 2014
+
+ LEAL FARMA                    
+ Emiss∆o.:27/12/2016  †s  13:51:34                                   PAG Nß031
+ Relatorio Posicao do Estoque
+ Ordem do Relatorio..: Alfabetico
+===============================================================================
+
++-------------+-----------------------------------+----+----------+----------+
+|  Codigo     |            Descricao              | Uni|   Qtd    | Contado  |
++-------------+-----------------------------------+----+----------+----------+
+|7898505091509|PREGNOLAN                          |CX  |         4|__________|
+|7896658009518|PRELONE 60ML                       |CX  |         1|__________|
+|7891045008716|PREMARIN C/28CPR                   |CX  |         7|__________|
+|7898115433065|PRENDEDOR PIN PON                  |UNID|         2|__________|
+|7891035990038|PRES DUREX SENSITIVE               |PC  |         2|__________|
+|7896007200306|PRESERV BLOWTEX MORANGO            |PC  |         4|__________|
+|7896007201129|PRESERV BLOWTEX ORGAZMAX+          |PC  |         3|__________|
+|7896007200375|PRESERV BLOWTEX RETARDANTE         |PC  |         2|__________|
+|7896007200368|PRESERV BLOWTEX TUT-FRUTTI         |PC  |        16|__________|
+|7891035990137|PRESERV DUREX XL                   |PC  |         4|__________|
+|7896007200504|PRESERV ELITE                      |PC  |         4|__________|
+|7896773110076|PRESERV PROSSEX C/3UNID            |PC  |        17|__________|
+|7896773110267|PRESERV PROSSEX MENTA              |PC  |        17|__________|
+|7896773110113|PRESERV PROSSEX MORANGO C/3        |PC  |         5|__________|
+|7896773110595|PRESERV PROSSEX SALADA C/3         |PC  |        14|__________|
+|7896773110106|PRESERV PROSSEX UVA                |PC  |         8|__________|
+|7898903991555|PRESERV RILEX CHOC                 |PC  |         8|__________|
+|7898903991487|PRESERV RILEX LUB                  |CX  |        18|__________|
+|7898556850179|PRESERV RILEX RETARDANTE           |PC  |         0|__________|
+|7898903991524|PRESERV RILEX TUTTI-FRUTTI         |CX  |        13|__________|
+|7898903991531|PRESERV RILEX UVA                  |PC  |        17|__________|
+|7898903991500|PRESERVATIVO RILEX ESPERMIC C/3    |PC  |         0|__________|
+|7898903991579|PRESERVATIVO RILEX MELANC C/3      |PC  |        15|__________|
+|7898903991548|PRESERVATIVO RILEX MENTA C/3       |PC  |        16|__________|
+|7898903991517|PRESERVATIVO RILEX MORANGO C/3     |PC  |        14|__________|
+|7896112470830|PRESS PLUS 5/10MG C/30CPS          |CX  |         0|__________|
+|7898495603959|PROBENTOL BABY 30G                 |BG  |         6|__________|
+|7898495603966|PROBENTOL DERMA CR 20G             |BG  |         4|__________|
+|7898495605809|PROBENTOL DERMA SOL 50ML           |FR  |         1|__________|
+|7896523201641|PROBENXIL 50MG C/20CPR             |CX  |         6|__________|
+|7896094201538|PROCIMAX 20MG C/28CPR              |CX  |         3|__________|
+|7896094202719|PROCIMAX 40MG C/28CPR              |CX  |         5|__________|
+|7898949409465|PROCTAN 25G                        |CX  |         1|__________|
+|7896472503919|PROCTOX H                          |CX  |         0|__________|
+|7896641805905|PROCTYL C/15 SUPOSITORIO           |CX  |         3|__________|
+|7896641803642|PROCTYL MONODOSE C/10 BISG         |CX  |         2|__________|
+|7896641801792|PROCTYL POMADA                     |CX  |         1|__________|
+|7898605840045|PRODUTO SIDNEY OLIVEIRA            |FR  |         9|__________|
+|7896070601765|PROFENID 100MG C/20CPR             |CX  |         2|__________|
+|7896112148685|PROFERGAN C/20CPR                  |CX  |        24|__________|
++-------------+-----------------------------------+----+----------+----------+
+                              S G C - 2014
+
+ LEAL FARMA                    
+ Emiss∆o.:27/12/2016  †s  13:51:34                                   PAG Nß032
+ Relatorio Posicao do Estoque
+ Ordem do Relatorio..: Alfabetico
+===============================================================================
+
++-------------+-----------------------------------+----+----------+----------+
+|  Codigo     |            Descricao              | Uni|   Qtd    | Contado  |
++-------------+-----------------------------------+----+----------+----------+
+|7891317411923|PROFLAM 100MG C/12 CPR             |CX  |         4|__________|
+|7896226500515|PROLOPA 200/50 C/30CPR             |CX  |         2|__________|
+|7897917001342|PROMERGAN CR 30G                   |CX  |        12|__________|
+|7899420501791|PROMIM CR VAG                      |CX  |         1|__________|
+|7898495603263|PRONENEN 45G                       |CX  |         5|__________|
+|7898060131290|PROPALOL 40MG C/40CPR              |CX  |        12|__________|
+|7896241279908|PROPILRACIL 100MG C/30CPR          |CX  |         3|__________|
+|7891317497842|PROSSO C/30CPR                     |CX  |         2|__________|
+|7899706122344|PROT ANTHELIOS FPS70               |CX  |         1|__________|
+|7891010087722|PROT DIAR CAREFREE C/15            |PC  |         1|__________|
+|7891142143648|PROT EPISOL INF 120G               |CX  |         1|__________|
+|7891010096441|PROT KIDS FPS 30                   |PC  |         1|__________|
+|7891010514853|PROT NEUT FPS 60 200ML             |FR  |         2|__________|
+|7891010591014|PROT NEUT SUN FPS 70 120ML         |FR  |         6|__________|
+|7891010514846|PROT NEUT SUN FRESH FPS 30 200ML   |FR  |         7|__________|
+|7891010591038|PROT NEUT SUN FRESH FPS 50 200ML   |FR  |         6|__________|
+|7891010591007|PROT NEUT SUN FRESH FPS70 200ML    |FR  |         3|__________|
+|7891010510978|PROT NEUTR FPS30 120ML             |FR  |         6|__________|
+|7891010510985|PROT NEUTR FPS50 120ML             |FR  |         4|__________|
+|7891010510992|PROT NEUTR FPS60 120ML             |FR  |         7|__________|
+|7891317121365|PROT PHASE BLOCK 50+               |FR  |         0|__________|
+|7896014176151|PROT SOL EXP FPS30 200ML           |FR  |         1|__________|
+|7899026476509|PROT SOL LOREAL FAC FPS 30 50G     |BG  |         2|__________|
+|7891010875718|PROT SUND FAC FPS30 50G            |FR  |         1|__________|
+|7891010033521|PROT SUND FPS30 120ML              |FR  |         5|__________|
+|7891010008147|PROT SUND FPS50 120ML              |FR  |         2|__________|
+|7891010020279|PROT SUND FPS50 200ML              |FR  |         0|__________|
+|7891010026844|PROT SUND FPS60 120ML              |FR  |         1|__________|
+|7891010026264|PROT. SUND KIDS FPS60 120ML        |FR  |         2|__________|
+|7891106006132|PROTOVIT PLUS 20ML                 |CX  |        -2|__________|
+|7891058006402|PURAN T4 100MCG C/28CPR            |CX  |         3|__________|
+|7891058006426|PURAN T4 125MCG                    |CX  |         4|__________|
+|7891058006433|PURAN T4 150MG C/28CPR             |CX  |         1|__________|
+|7891058006440|PURAN T4 175MCG C/28CPR            |CX  |         2|__________|
+|7891058006365|PURAN T4 25MG C/28COMP             |CX  |         4|__________|
+|7891058006372|PURAN T4 50MG C/28CPR              |CX  |         3|__________|
+|7891058006389|PURAN T4 75MCG C/28CPR             |CX  |         3|__________|
+|7891058006396|PURAN T4 88MCG C/28CPR             |CX  |         1|__________|
+|7898430190995|PURAVIT GTS 20ML                   |CX  |         3|__________|
+|7898430191008|PURAVIT MULTI 120ML                |CX  |         2|__________|
++-------------+-----------------------------------+----+----------+----------+
+                              S G C - 2014
+
+ LEAL FARMA                    
+ Emiss∆o.:27/12/2016  †s  13:51:34                                   PAG Nß033
+ Relatorio Posicao do Estoque
+ Ordem do Relatorio..: Alfabetico
+===============================================================================
+
++-------------+-----------------------------------+----+----------+----------+
+|  Codigo     |            Descricao              | Uni|   Qtd    | Contado  |
++-------------+-----------------------------------+----+----------+----------+
+|7899095201163|PYLTEC 20MG C/ 30CPR               |CX  |         5|__________|
+|7897655400216|PYR-PAM 100MG C/6CPR               |CX  |         1|__________|
+|7897655400223|PYR-PAM SUSP 40ML                  |CX  |         0|__________|
+|7892953001370|PYRIDIUM 100MG C/25CPR             |CX  |         2|__________|
+|7892953001387|PYRIDIUM 200MG C/18DRG             |CX  |         6|__________|
+|7891142180766|QUADRIDERM CR 20G                  |BG  |         0|__________|
+|7891142180773|QUADRIDERM POM 20G                 |BG  |         1|__________|
+|7898158691576|QUEIMALIVE 30G POM                 |CX  |         5|__________|
+|7896676424614|QUETIPIN 100MG C/30CPR             |CX  |         2|__________|
+|7896658015212|QUETROS 100MG C/30CPR              |CX  |         1|__________|
+|7896658015168|QUETROS 25MG C/30CPR               |CX  |         6|__________|
+|7896202503905|QUITOSANA, SPIRULINA & PSYLLIUM    |FR  |         0|__________|
+|7896862910587|RANITIDIL C/10CPR                  |CX  |         1|__________|
+|7898075315937|RANITIDINA 150MG C/20CPR           |CX  |         6|__________|
+|7896862918071|RANITIDINA 159MG C/20CPR           |CX  |         8|__________|
+|7896181916628|RANITIDINA SOL 120ML               |CX  |         2|__________|
+|7891010894856|RAPID CLEAR NEUTROGENA  80MG       |UNID|         1|__________|
+|7891106006279|REDOXON 1G C/10CPR                 |CX  |        16|__________|
+|7891106006330|REDOXON 1G+ZINCO 10MG              |CX  |         1|__________|
+|7891106006286|REDOXON GTS 20ML                   |CX  |         8|__________|
+|7897316806142|REFRESH ADVANCED 15ML              |CX  |         2|__________|
+|7899640801152|REGULARE 225G                      |CX  |         1|__________|
+|7896920300695|REGULAX 340G MAMAO                 |CX  |         3|__________|
+|7896920300701|REGULAX 340G MORANGO               |CX  |         3|__________|
+|7893736014730|RELAPAX 10MG C/20CPR               |CX  |        12|__________|
+|7896714200743|RENALAPRIL 10MG C/ 30CPR           |CX  |         5|__________|
+|7896714200750|RENALAPRIL 20MG C/30CPR            |CX  |         0|__________|
+|7898049795833|RENAPRIL 10MG C/30CP               |CX  |         1|__________|
+|7898049795864|RENAPRIL 20MG C/30CPR              |CX  |         2|__________|
+|7897917001182|RENOPRIL 10MG C/30CPR              |CX  |         4|__________|
+|7897917001199|RENOPRIL 20MG C/30CPR              |CX  |        -4|__________|
+|0000000050   |RENOPRIL 20MG COMP                 |CP  |        20|__________|
+|7894650130117|REPELENTE OFF! AERO                |FR  |        11|__________|
+|7897947603844|REPELENTE XO INSSET                |FR  |         2|__________|
+|78902312     |REPELEX 100ML                      |FR  |         7|__________|
+|7891035620003|REPELEX AERO 200ML                 |FR  |         5|__________|
+|7891035621109|REPELEX LOC 100ML                  |FR  |         1|__________|
+|7896004715247|REPOFLOR 100MG C/12CAP             |CX  |         4|__________|
+|7896004715230|REPOFLOR C/4ENV                    |CX  |         4|__________|
+|7896004703954|REPOPIL C/21CPR                    |CX  |         3|__________|
++-------------+-----------------------------------+----+----------+----------+
+                              S G C - 2014
+
+ LEAL FARMA                    
+ Emiss∆o.:27/12/2016  †s  13:51:34                                   PAG Nß034
+ Relatorio Posicao do Estoque
+ Ordem do Relatorio..: Alfabetico
+===============================================================================
+
++-------------+-----------------------------------+----+----------+----------+
+|  Codigo     |            Descricao              | Uni|   Qtd    | Contado  |
++-------------+-----------------------------------+----+----------+----------+
+|7896004734026|REPROPIL 35 BL21CPR                |BL  |         8|__________|
+|7899095221383|RESFRILIV LARANJA E ACEROLA        |UNID|        44|__________|
+|7899095221284|RESFRILIV MEL E GENGIBRE 5G        |CX  |       139|__________|
+|7899095221338|RESFRILIV MEL E LIMAO 5G           |ENV |       277|__________|
+|7895296296021|RESIDRONATO SODICO 35MG CX/4       |CX  |         2|__________|
+|025          |RESODIC 50MG C/20 XXXX             |BL  |       252|__________|
+|0000000140   |RESODIC BL                         |BL  |       226|__________|
+|8902220114722|RESPIDON 1MG C/30CPR               |CX  |         3|__________|
+|8902220114739|RESPIDON 2MG 30CPR                 |CX  |         2|__________|
+|7896676412192|RESPIRIDON 2MG C/30CPR             |CX  |         3|__________|
+|7896658016837|REVANGE C/10CPR                    |CX  |         2|__________|
+|7896658016844|REVANGE C/20CPR                    |CX  |         2|__________|
+|7891058061562|RIFOCINA 20ML                      |CX  |         3|__________|
+|7898133131059|RIFOTRAT SPRAY 20ML                |FR  |        46|__________|
+|7897322702032|RINOSORO 30ML                      |FR  |         1|__________|
+|7894916505178|RISEDROSS 35MG C/4CPR              |CX  |         5|__________|
+|7896676412208|RISPERIDON 1MG C/30CPR             |CX  |         3|__________|
+|7896676415797|RISPERIDON 1MG/ML-30ML             |CX  |        15|__________|
+|7897595611413|RISPERIDONA 1MG C/30CPR            |CX  |         4|__________|
+|7897595611437|RISPERIDONA 2MG C/30CPR-SANDOZ     |CX  |         7|__________|
+|7891317448745|RISS 2MG C/30CPR                   |CX  |         7|__________|
+|7896331703924|RITMONEURAN C/20CPS                |CX  |         3|__________|
+|7896331703573|RITMONEURAN XR                     |CX  |         3|__________|
+|7896226504742|RIVOTRIL 0,25MG C/30CPR            |CX  |         3|__________|
+|7896226502427|RIVOTRIL 0,5MG C/30CPR             |CX  |         3|__________|
+|7896226501239|RIVOTRIL 2,5MG/ML 20ML             |FR  |        27|__________|
+|7896226502410|RIVOTRIL 2MGC/30CPR                |CX  |        14|__________|
+|8902220109506|ROSUCOR 10MG C/30CPR               |CX  |         4|__________|
+|8902220109520|ROSUCOR 20MG C/30CPR               |CX  |         2|__________|
+|7897595620729|ROSULIB 10MG C/30CPR               |CX  |         1|__________|
+|7897595620637|ROSUVASTATINA CALC 20MG/3CPR SANDOZ|CX  |         1|__________|
+|7897595620613|ROSUVASTATINA CALCICA 10MG         |CX  |         3|__________|
+|7898949409540|SAB ASEPXIA ADS CR 90G             |CX  |         6|__________|
+|650240012716 |SAB ASEPXIA ADS HERB               |CX  |         1|__________|
+|650240019135 |SAB ASEPXIA ENXOFRE                |UNID|         3|__________|
+|7898949409557|SAB ASEPXIA ENXORE 90G             |CX  |        10|__________|
+|650240012723 |SAB ASEPXIA ESFOLIANTE             |CX  |         7|__________|
+|7898949409564|SAB ASEPXIA F FORTE 90G            |CX  |         8|__________|
+|650240012747 |SAB ASEPXIA NATURAL EXT-SEC        |CX  |         8|__________|
+|7898949409519|SAB ASEPXIA NEUTRO 90G             |CX  |         9|__________|
++-------------+-----------------------------------+----+----------+----------+
+                              S G C - 2014
+
+ LEAL FARMA                    
+ Emiss∆o.:27/12/2016  †s  13:51:34                                   PAG Nß035
+ Relatorio Posicao do Estoque
+ Ordem do Relatorio..: Alfabetico
+===============================================================================
+
++-------------+-----------------------------------+----+----------+----------+
+|  Codigo     |            Descricao              | Uni|   Qtd    | Contado  |
++-------------+-----------------------------------+----+----------+----------+
+|7896512911919|SAB GRANADO AMEND 200ML            |FR  |         2|__________|
+|7896512905277|SAB GRANADO GLIC 90G ERVA          |CX  |         2|__________|
+|7891010690373|SAB JOHNSON IMAGINE                |UNID|         1|__________|
+|7897930761209|SAB SOAPEX 80G                     |CX  |         2|__________|
+|7896512905420|SABON GRANADO BEBE 90G             |CX  |         1|__________|
+|7896512905222|SABON GRANADO GLIC 90G             |CX  |         1|__________|
+|7891010032906|SABON JONHNSON BABY                |UNID|         0|__________|
+|7891010877972|SABON JONHSONS 90G PELE CHEIA      |UNID|        -1|__________|
+|7891010690397|SABON JONHSONS REVIVA              |UNID|         2|__________|
+|7891010690380|SABON JONHSSONS RELAXE 90G         |UNID|         3|__________|
+|7896685301913|SABON KRONEL                       |CX  |         1|__________|
+|7891010579289|SABON LIQ JONHSON RN               |CX  |         3|__________|
+|7898296162013|SABONETE DE AROEIRA NATUSMED V     |CX  |         2|__________|
+|7896902210226|SAL AMARGO 30G                     |CX  |         3|__________|
+|7896090611119|SAL DE ANDREWS                     |ENV |        27|__________|
+|7898100243792|SALICETIL 100MG C/10CPR            |CX  |        25|__________|
+|7896227800027|SALONPAS GR C/2                    |PC  |        12|__________|
+|7896227800010|SALOPAS C/4UNID                    |ENV |        26|__________|
+|7896094207943|SALSEP 360 50ML                    |CX  |         3|__________|
+|7896094201514|SALSEP 50ML                        |CX  |         0|__________|
+|7898060138756|SCAFLOGIN 100MG C/12CPR            |CX  |       124|__________|
+|7898060138749|SCAFLOGIN 50MG/ML 15ML             |FR  |         4|__________|
+|7899620911420|SCAFLOGIN C/12CPR                  |CX  |       281|__________|
+|0000000113   |SCALP CIRU VEIN-S                  |PC  |         6|__________|
+|7898312245898|SCALP EMBRAMAC 23G                 |CX  |        -1|__________|
+|7898312245904|SCALP EMBRAMAC 25G                 |UNID|         7|__________|
+|7898133136047|SEAKALM C/20CPR                    |CX  |         6|__________|
+|7899470800882|SEAKALM XR 100ML                   |CX  |         6|__________|
+|7898049794218|SECDAZOL 1000MG C/2CPR             |CX  |         4|__________|
+|7896004705347|SECNIDAZOL 450MG 15ML              |CX  |         6|__________|
+|7898060138220|SECNIMAX 1000MG                    |CX  |        19|__________|
+|7898414851577|SEDAVAN INF 100ML                  |CX  |         3|__________|
+|7898414851553|SEDAVAN XR 100ML                   |CX  |         2|__________|
+|7898074618183|SEKI XR 3,54MG/ML                  |FR  |         2|__________|
+|7891317465650|SELENE BL21                        |BL  |        23|__________|
+|7896206402853|SELOZOK 25MG C/30CPR               |CX  |         2|__________|
+|7896206402860|SELOZOK 50MG C/30CPR               |CX  |         1|__________|
+|7896015519223|SENSODYNE BRANQUEADOR              |CX  |         5|__________|
+|7896015517502|SENSODYNE COOL GEL                 |BG  |         5|__________|
+|7896009400049|SENSODYNE CR ORIGINAL              |BG  |         0|__________|
++-------------+-----------------------------------+----+----------+----------+
+                              S G C - 2014
+
+ LEAL FARMA                    
+ Emiss∆o.:27/12/2016  †s  13:51:34                                   PAG Nß036
+ Relatorio Posicao do Estoque
+ Ordem do Relatorio..: Alfabetico
+===============================================================================
+
++-------------+-----------------------------------+----+----------+----------+
+|  Codigo     |            Descricao              | Uni|   Qtd    | Contado  |
++-------------+-----------------------------------+----+----------+----------+
+|7896009419270|SENSODYNE MULTI PROTEÄ«O           |CX  |         0|__________|
+|7890282801401|SEPURIN C/20DRG                    |CX  |         5|__________|
+|7898312240824|SERINGA 10ML EMBRAMAC              |UNID|        13|__________|
+|7898312240794|SERINGA 5ML EMBRAMAC               |UNID|         5|__________|
+|382904918019 |SERINGA BD 0,25MM                  |PC  |         1|__________|
+|382904917012 |SERINGA BD 6X0,25MM C/10UN         |PC  |         2|__________|
+|7898283812549|SERINGA DESCARPACK 10ML            |UNID|        98|__________|
+|7898283814703|SERINGA DESCARPACK 1ML             |UNID|        89|__________|
+|7898283812525|SERINGA DESCARPACK 3ML             |UNID|         2|__________|
+|7898567940906|SERINGA SAFETY 3ML                 |UNID|       190|__________|
+|7898567940920|SERINGA SAFETY 5ML                 |UNID|       100|__________|
+|7898259490726|SERINGA SR 10ML                    |UNID|        17|__________|
+|7898259490221|SERINGA SR 1ML-INSULINA            |UNID|        -6|__________|
+|7898259490924|SERINGA SR 20ML                    |UNID|         0|__________|
+|7898259490528|SERINGA SR 5ML                     |UNID|        13|__________|
+|7896523208022|SH CETOCONAZOL 100ML CIEMD         |CX  |         2|__________|
+|0000000101   |SH GRANADO BEBE 250ML              |FR  |         0|__________|
+|7898414851737|SHAKE DIET BAUNILHA                |CX  |         2|__________|
+|7898414851720|SHAKE DIET CHOC                    |CX  |         2|__________|
+|7897947604834|SHAKE REDUBIO 300G                 |CX  |         2|__________|
+|0000000173   |SHAMPOO JONHSONS 120ML TODOS       |FR  |         4|__________|
+|7899095237025|SILDENAFILA 50MG C/1CPR            |CX  |         2|__________|
+|7891317006570|SIMECO PLUS 240ML                  |CX  |         1|__________|
+|7898060132730|SINTAFLAT 40MG C/20CPR             |CX  |        -1|__________|
+|7898060138923|SINTAFLAT GTS 15ML                 |CX  |         2|__________|
+|7896658021428|SINTOCALMY 600MG C/30CPR           |CX  |         4|__________|
+|7897851250530|SINVASCOR 20MG C/30CPR             |CX  |         2|__________|
+|7897851250622|SINVASCOR 40MG C/30CPR             |CX  |         2|__________|
+|7898060131566|SINVASMAX 10MG C/30CPR             |CX  |         1|__________|
+|7898060138114|SINVASMAX 20MG C/30CPR             |CX  |        65|__________|
+|7898060138091|SINVASMAX 40MG C/30CPR             |CX  |        21|__________|
+|7899095254947|SINVAX 20MG C/30CPR                |CX  |         2|__________|
+|7898158695819|SO-SORO INF 30ML                   |CX  |         1|__________|
+|7899095201187|SODIX 50MG C/20CPR                 |CX  |         6|__________|
+|7898133137457|SOL DE PVPI 100ML                  |FR  |         3|__________|
+|7894916209908|SOMALGIN CARDIO 100MG C/32CPR      |CX  |         7|__________|
+|7896004739878|SOMINEX C/20CPR                    |CX  |         2|__________|
+|7896004754826|SONEBON 20CPR                      |CX  |         4|__________|
+|7896015517083|SONRIDOR CAF CPR                   |CP  |        42|__________|
+|7896090611607|SONRISAL C/2CPR                    |BL  |       383|__________|
++-------------+-----------------------------------+----+----------+----------+
+                              S G C - 2014
+
+ LEAL FARMA                    
+ Emiss∆o.:27/12/2016  †s  13:51:35                                   PAG Nß037
+ Relatorio Posicao do Estoque
+ Ordem do Relatorio..: Alfabetico
+===============================================================================
+
++-------------+-----------------------------------+----+----------+----------+
+|  Codigo     |            Descricao              | Uni|   Qtd    | Contado  |
++-------------+-----------------------------------+----+----------+----------+
+|7896658012303|SORINE GTS 30ML INF                |CX  |         1|__________|
+|7896902207660|SORO FISIOLOFICO FARMAX 240ML      |FR  |        -3|__________|
+|7896902206434|SORO FISIOLOGICO 240ML SORIMAX     |FR  |         6|__________|
+|7896902204751|SORO FISIOLOGICO FARMAX 100ML      |FR  |         3|__________|
+|7896902200746|SORO FISIOLOGICO FARMAX 500ML      |FR  |         1|__________|
+|7898166041400|SORO FISIOLOGICO S/ FECHADO        |FR  |         6|__________|
+|7897947706491|SORO FISIOLOGICO S/ FECHADO        |UNID|        12|__________|
+|7896902212152|SORO FISIOLOGICO SORIMAX 100ML     |FR  |        18|__________|
+|7898153652381|SORO SANOBIOL 500ML                |CX  |         4|__________|
+|7896902212176|SORO SORIMAX 240ML                 |FR  |        15|__________|
+|7896902212190|SORO SORIMAX 500ML                 |CX  |         9|__________|
+|7896472508211|SPECTOLAB PED 120ML                |CX  |         4|__________|
+|7896251804275|SPECTRABAN FPS 30                  |CX  |         0|__________|
+|7896251804282|SPECTRABAN T 60G BEGE EXTRA CLARO  |CX  |         1|__________|
+|7898133135163|STARFOR C C/10CPR                  |CX  |         0|__________|
+|7899095239487|STOMALIV 5G                        |ENV |       188|__________|
+|7896212479689|STUGERON 75MG C/30CPR              |CX  |         1|__________|
+|7896004703732|SULFA+TRIMET 100ML                 |CX  |         2|__________|
+|0000000123   |SULFADIAZINA CPR                   |UNID|       247|__________|
+|7898148293711|SULFADIAZINA DE PRATA 10MG/G 30G   |BG  |         2|__________|
+|7898148293742|SULFADIAZINA DE PRATA 50MG         |CX  |         2|__________|
+|035          |SULFAZINA CPR                      |CP  |       275|__________|
+|7897917000093|SULFEBEL C/50CPR                   |CX  |         1|__________|
+|7897917002608|SULFERBEL C/50CPR                  |CX  |         2|__________|
+|7897595902085|SULPAN C/20CPR                     |CX  |         3|__________|
+|7896004746586|SUPLEVIT C FOR                     |CX  |         3|__________|
+|7891106906715|SUPRADYN C/ 30CPR                  |CX  |         2|__________|
+|7896862922054|SUPREMUS C/60CPR                   |CX  |         7|__________|
+|7894913001666|SUPRINAN 120ML                     |CX  |         2|__________|
+|7896548198247|SYSTANE UL 10ML                    |CX  |         3|__________|
+|7896179850040|TAMARINE C/20CAPS                  |CX  |         3|__________|
+|7891317444952|TAMISA 20 BL21CPR                  |BL  |        24|__________|
+|0000000018   |TAMISA 30 C/21CPR                  |BL  |         9|__________|
+|7891317443931|TAMISA 30 SEM PARAR                |CX  |         0|__________|
+|0000000112   |TANDENE BL15 XXXXXXXXXXX           |CX  |       370|__________|
+|003          |TANDENE BL15CPR                    |BL  |        49|__________|
+|0000000122   |TANDRILAX BL15 XXX VENDA           |BL  |        11|__________|
+|0000000178   |TANTIN BL28                        |AMP |         2|__________|
+|7896241231630|TAPAZOL 10MG C/50CPR               |CX  |         2|__________|
+|7896185989819|TARGIFOR+C                         |CX  |         2|__________|
++-------------+-----------------------------------+----+----------+----------+
+                              S G C - 2014
+
+ LEAL FARMA                    
+ Emiss∆o.:27/12/2016  †s  13:51:35                                   PAG Nß038
+ Relatorio Posicao do Estoque
+ Ordem do Relatorio..: Alfabetico
+===============================================================================
+
++-------------+-----------------------------------+----+----------+----------+
+|  Codigo     |            Descricao              | Uni|   Qtd    | Contado  |
++-------------+-----------------------------------+----+----------+----------+
+|7898557143874|TEACALME CHA DO SONO               |ENV |         0|__________|
+|7897917001533|TEBILOBA 120MG C/30CPR             |CX  |         2|__________|
+|7896261000094|TEGRETOL 200MG C/20CPR             |CX  |         3|__________|
+|7896261000742|TEGRETOL 20MG/ML                   |CX  |         3|__________|
+|7896261000100|TEGRETOL 400MG C/20CPR             |CX  |         3|__________|
+|7896862910471|TENOXIL 20MG C/10CPR               |CX  |         2|__________|
+|7896714234236|TENSALIV 10MG C/30CPR              |CX  |         3|__________|
+|7896714234212|TENSALIV 5MG C/30 CPR              |CX  |        20|__________|
+|7896317904802|TERICIN AT CR VAG                  |BG  |         2|__________|
+|7896540751266|TERMOMETRO CLIN OVAL INCOTERM      |UNID|         2|__________|
+|7898301056993|TERMOMETRO DIGITAL G-TECH          |UNID|         4|__________|
+|0000000010   |TESTE DE GLICEMIA                  |CX  |        63|__________|
+|7898126050022|TESTE DE GRAVIDEZ CONFIRME         |CX  |         6|__________|
+|7896206400453|TETMOSOL SAB 80G                   |CX  |         2|__________|
+|032          |TETRACICLINA CPR                   |BL  |       178|__________|
+|0000000164   |TETRAMED CPR                       |UNID|       152|__________|
+|7896112194279|TEUTOFORMIN 500MG /30CPR           |CX  |         3|__________|
+|7897732602519|THEOGORICO SOBRAL 30ML             |FR  |         5|__________|
+|7893454510217|TIAPLEX 50MG/G C/20G               |BG  |         1|__________|
+|7896714266558|TIBIAL 2,5MG C/28CPR               |CX  |         4|__________|
+|7896714242194|TIBOLONA 2,5MG C28CPR NEOQ         |CX  |         4|__________|
+|7894916142786|TIMOLOL 5ML                        |CX  |         5|__________|
+|7896714225753|TIMOLOL 5ML -NEO                   |FR  |         1|__________|
+|7896714225005|TIMONEO GTS 5ML                    |CX  |         1|__________|
+|7896714224107|TIOCONAZOL+TINIDAZOL 35G           |CX  |         1|__________|
+|7898942110634|TIPOIA MORMAII                     |UNID|         2|__________|
+|0000000158   |TIRA ACCU-CHEK ACTIVE              |CX  |         1|__________|
+|0000000089   |TIRA P/ GLICEMIA G-TECH            |UNID|        30|__________|
+|5016003188206|TIRAS CONTOUR TS C/ 50UND          |CX  |         1|__________|
+|7896548112908|TOBRADEX 5ML                       |CX  |         1|__________|
+|7896181900689|TOPIRAMATO 25MG C/60CPR            |CX  |         1|__________|
+|7896181900764|TOPIRAMATO 50MG C/60 CPR           |CX  |         0|__________|
+|7891317468057|TORANTE 100ML                      |FR  |         2|__________|
+|029          |TORSILAX C/4CPR                    |BL  |       851|__________|
+|047          |TORSILAX CPR                       |CP  |       -10|__________|
+|8902220106024|TORVAL CR 300MG C/30CPR            |CX  |         4|__________|
+|8902220105935|TORVAL CR 500G C/30CPR             |CX  |         1|__________|
+|0000000106   |TOUCA DESCARTAVEL UND              |UNID|        64|__________|
+|7896714217321|TRAMADOL 50MG C/10CPS              |CX  |         1|__________|
+|7898582380022|TRAMAL C/10CPR                     |CX  |         3|__________|
++-------------+-----------------------------------+----+----------+----------+
+                              S G C - 2014
+
+ LEAL FARMA                    
+ Emiss∆o.:27/12/2016  †s  13:51:35                                   PAG Nß039
+ Relatorio Posicao do Estoque
+ Ordem do Relatorio..: Alfabetico
+===============================================================================
+
++-------------+-----------------------------------+----+----------+----------+
+|  Codigo     |            Descricao              | Uni|   Qtd    | Contado  |
++-------------+-----------------------------------+----+----------+----------+
+|7897460400357|TRANSAMIN 250MG C/ 12CPR           |CX  |         2|__________|
+|7899095200296|TRAXONOL 100MG                     |CX  |        13|__________|
+|7894916141734|TRIANC ACET 1MG/G 10G              |CX  |         4|__________|
+|7891317412524|TROK CR 10G                        |CX  |         7|__________|
+|7891317412548|TROK POM 10G                       |BG  |         6|__________|
+|7891317412531|TROK-N CR 10G                      |BG  |        -1|__________|
+|7891317445737|TROK-N CR 30G                      |CX  |         1|__________|
+|7891317412555|TROK-N POM 10G                     |CX  |         8|__________|
+|7894916208154|TROPINAL C/20CPR                   |CX  |         6|__________|
+|7894916208833|TROPINAL GTS 15ML                  |CX  |         0|__________|
+|7898100243785|TYFLEN 750MG                       |BL  |       293|__________|
+|7898100242719|TYFLEN BEBE 15ML                   |CX  |         0|__________|
+|016          |TYLALGIN CAF C/4CPR                |BL  |        91|__________|
+|7898133130410|TYLEMAX 200MG/ML 15ML              |CX  |       126|__________|
+|7898133131509|TYLEMAX BABY 15ML                  |FR  |        12|__________|
+|7898133137471|TYLEMAX CRIANáA 60ML               |CX  |         1|__________|
+|7896212422517|TYLENOL 570MG C/ 20CPR             |CX  |         3|__________|
+|7896212479924|TYLENOL GTS 15ML                   |CX  |         4|__________|
+|0000000005   |ULTIDIN 1/2CX                      |CX  |         0|__________|
+|7899095201439|ULTIDIN 150MG                      |CX  |         5|__________|
+|7899095245143|ULTIDIN XR 120ML                   |CX  |         2|__________|
+|7899470805221|UNHA GOLD                          |FR  |         1|__________|
+|7898430191091|UNIZINCO 100ML                     |CX  |         2|__________|
+|7898133137242|VALESSONE C/20CPR                  |CX  |         4|__________|
+|7896004732848|VALSARTANA 160MG C/30CPR           |CX  |         0|__________|
+|7897595614919|VALSARTANA 320G C/28CPR            |CX  |         1|__________|
+|7896181921523|VALSARTANA 320MG C/30CPR           |CX  |         2|__________|
+|7896714241340|VALSARTANA 320MG C/30CPR-NEOQ      |CX  |         0|__________|
+|7899095240414|VALYANNE C/20CPR                   |CX  |         5|__________|
+|7898512054474|VARIVAX 120G                       |CX  |        -1|__________|
+|7898133136450|VARIVAX C/30CPR                    |CX  |         5|__________|
+|7896902211803|VASELINA LIQ 30ML                  |FR  |         6|__________|
+|7896181907992|VASOGARD 100MG C/30CPR             |CX  |         1|__________|
+|7896094206298|VELIJA 30MG C/30CPS                |CX  |         2|__________|
+|8903855062822|VENLIFT OD 150MG C\30              |CX  |         1|__________|
+|7896317908121|VENOLISE C/30CPR                   |CX  |         2|__________|
+|7898505090434|VENOVAZ C/60CPR                    |CX  |         2|__________|
+|7896714239712|VERTIGIUM 10MG C/50CPR             |CX  |        13|__________|
+|7898049790586|VERTIZAN 10MG                      |CX  |         5|__________|
+|0000000054   |VERTIZAN 10MG COMP                 |CP  |       -75|__________|
++-------------+-----------------------------------+----+----------+----------+
+                              S G C - 2014
+
+ LEAL FARMA                    
+ Emiss∆o.:27/12/2016  †s  13:51:35                                   PAG Nß040
+ Relatorio Posicao do Estoque
+ Ordem do Relatorio..: Alfabetico
+===============================================================================
+
++-------------+-----------------------------------+----+----------+----------+
+|  Codigo     |            Descricao              | Uni|   Qtd    | Contado  |
++-------------+-----------------------------------+----+----------+----------+
+|7896093002464|VICK LIMAO C/5PLS                  |ENV |        31|__________|
+|7896093002471|VICK MENTOL PLAST                  |PC  |        44|__________|
+|000PROB      |VICK VAPORUB 12G                   |UNID|         5|__________|
+|78911222     |VICK VAPORUB 12G-NOVO              |UNID|        24|__________|
+|7896046300067|VIDISIC GEL 10G                    |CX  |         1|__________|
+|7896548197554|VIGADEXA 5ML                       |FR  |        -1|__________|
+|7896206404291|VIMOVO C/20CPR                     |CX  |         5|__________|
+|7896902208841|VIOLETA GENCIANA                   |FR  |         8|__________|
+|7899095220379|VITACIN GTS 200MG/ML 20ML          |CX  |         0|__________|
+|7896920300831|VITADYN BC 240ML                   |CX  |         9|__________|
+|7896920300411|VITADYN C/30CPR                    |CX  |         1|__________|
+|7898133135606|VITAMIN E 400MG C/30CAPS           |CX  |         2|__________|
+|0000000095   |VITAMINA C INJ                     |AMP |         3|__________|
+|7897595624802|VITAMINA E C/30CPR                 |CX  |         6|__________|
+|7899095203730|VITAUM 300MG C/30CPR               |CX  |         6|__________|
+|7899470800240|VITER C 1G                         |CX  |         8|__________|
+|7898133131035|VITER C GTS 20 ML                  |CX  |        -9|__________|
+|7899470800325|VITER C+ZINCO C/10CPR              |CX  |         2|__________|
+|0000000000240|VITERC 1G                          |CX  |        13|__________|
+|7898495602457|VITERGYL 1G C/10CPR                |CX  |        10|__________|
+|7896206403706|VIVACOR 5MG 30CPR                  |CX  |         2|__________|
+|7896261020290|VOLTAREN 50MG                      |CX  |         5|__________|
+|048          |VOLTAREN 75MG INJ                  |AMP |         2|__________|
+|7896261000261|VOLTAREN RETARD 100MG C/10CPR      |CX  |         2|__________|
+|7896261000025|VOLTAREN SR 75MG                   |CX  |         7|__________|
+|037          |VOLTAREN SR 75MG CPR               |CP  |       -25|__________|
+|7896862940041|VOMISTOP GTS 4MG/ML 10ML           |FR  |        -5|__________|
+|7896241296523|VONAU FLASH 4MG                    |CX  |         4|__________|
+|7898133131837|XAROPE DE GUACO 150ML              |FR  |        10|__________|
+|7891106906999|YASMIN BL21                        |BL  |         2|__________|
+|7891317485429|ZAP 5MG C/30CPR                    |CX  |         2|__________|
+|7899640804061|ZAP 5MG C/30CPR-NOVO               |CX  |         7|__________|
+|7896181922254|ZARGUS 2MG C/30CPR                 |CX  |         5|__________|
+|7891317425869|ZART 50MG C/30CPR                  |CX  |         1|__________|
+|7896015513313|ZENTEL 400MG                       |CX  |         2|__________|
+|7891317457211|ZINA 5MG C/10CPR                   |CX  |         1|__________|
+|7896317901238|ZIRVIT MULTI C/30CPR               |CX  |         1|__________|
++-------------+-----------------------------------+----+----------+----------+
+
+
+
+
+
+
+
+
+===============================================================================
+ S G C - 2014   Seu Gerente Comercial - Suporte (89)421-0689/(89)9921-8332
