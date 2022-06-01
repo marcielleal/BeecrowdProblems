@@ -1,5 +1,3 @@
-# LearningRuby
+# BeecrowdProblems
 
-Learning ruby's basic sintax with URI's problems.
-
-Aprendendo a sintaxe básica de Ruby respondendo problemas do URI.
+Solving problems from [https://www.beecrowd.com.br](https://www.beecrowd.com.br)
